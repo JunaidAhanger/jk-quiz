@@ -1,0 +1,2495 @@
+{
+  "topics": [
+    "History of Jammu & Kashmir",
+    "Geography, Rivers & Climate of J&K",
+    "J&K Reorganisation Act, 2019 & Polity",
+    "Economy, Agriculture & Handicrafts of J&K",
+    "Art, Culture, Heritage & Tourism of J&K",
+    "Ecology, Wildlife & National Parks of J&K"
+  ],
+  "months": [
+    "June 2026",
+    "July 2026",
+    "August 2026",
+    "September 2026",
+    "October 2026",
+    "November 2026"
+  ],
+  "questions": [
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "Who among the following authored the 'Rajatarangini' (River of Kings) in Sanskrit during the 12th century CE?",
+      "options": [
+        "Jonaraja",
+        "Kalhana",
+        "Srivara",
+        "Kshemendra"
+      ],
+      "answer": 1,
+      "explanation": "Kalhana composed the Rajatarangini in 1148–1149 CE during the reign of King Jayasimha of the Lohara dynasty, chronicling the history of Kashmir."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Trap",
+      "question": "Consider the Treaty of Amritsar (1846). Under which article was Kashmir transferred to Maharaja Gulab Singh for 75 lakh Nanakshahi rupees?",
+      "options": [
+        "Article 1",
+        "Article 3",
+        "Article 5",
+        "Article 10"
+      ],
+      "answer": 0,
+      "explanation": "Article 1 of the Treaty of Amritsar (signed on 16 March 1846) transferred all hilly or mountainous country situated to the eastward of the River Indus and westward of the River Ravi to Maharaja Gulab Singh; Article 3 specified the payment of 75 lakh Nanakshahi rupees."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Srinagar",
+      "month": "",
+      "type": "Fact",
+      "question": "Which ruler of the Karkota dynasty built the famous Martand Sun Temple near Anantnag?",
+      "options": [
+        "Durlabhavardhana",
+        "Lalitaditya Muktapida",
+        "Avantivarman",
+        "Shankaravarman"
+      ],
+      "answer": 1,
+      "explanation": "Lalitaditya Muktapida (8th century CE) of the Karkota dynasty constructed the iconic Martand Sun Temple on a plateau overlooking the Kashmir Valley."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "During whose reign in Kashmir was the Fourth Buddhist Council held at Kundalavana?",
+      "options": [
+        "Ashoka",
+        "Menander",
+        "Kanishka",
+        "Jalauka"
+      ],
+      "answer": 2,
+      "explanation": "Kushan Emperor Kanishka convened the Fourth Buddhist Council at Kundalavana (Harwan, near Srinagar) around the 1st century CE, presided over by Vasumitra with Ashvaghosha as vice-president."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Trap",
+      "question": "On which exact date did Maharaja Hari Singh sign the Instrument of Accession with the Dominion of India?",
+      "options": [
+        "15 August 1947",
+        "24 October 1947",
+        "26 October 1947",
+        "27 October 1947"
+      ],
+      "answer": 2,
+      "explanation": "Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947; Governor-General Lord Mountbatten formally accepted it the following day, 27 October 1947."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "Which mountain pass connects the Kashmir Valley with the Chenab Valley (Banihal-Ramban sector) via the Jawahar Tunnel?",
+      "options": [
+        "Zoji La",
+        "Banihal Pass",
+        "Pir Ki Gali",
+        "Sinthan Top"
+      ],
+      "answer": 1,
+      "explanation": "Banihal Pass across the Pir Panjal range houses the Jawahar Tunnel (and the newer Qazigund-Banihal road tunnel), linking Qazigund in Kashmir with Banihal in Ramban district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Trap",
+      "question": "In ancient Sanskrit texts, the River Chenab was known as Askini. By what ancient name was the River Jhelum known?",
+      "options": [
+        "Vitasta",
+        "Vipasha",
+        "Parushni",
+        "Shutudri"
+      ],
+      "answer": 0,
+      "explanation": "In Rigvedic/Sanskrit texts, Jhelum was called Vitasta (and Hydaspes by the Greeks), whereas Chenab was Askini, Ravi was Parushni, and Beas was Vipasha."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Srinagar",
+      "month": "",
+      "type": "Fact",
+      "question": "Which river joins the Jhelum at Domel (Muzaffarabad) after draining the Gurez and Neelum valleys?",
+      "options": [
+        "Lidder",
+        "Sindh",
+        "Kishanganga (Neelum)",
+        "Vishav"
+      ],
+      "answer": 2,
+      "explanation": "The Kishanganga River originates near Dras/Gurez, flows through Bandipora/Kupwara, and merges with the Jhelum at Domel near Muzaffarabad."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "What are 'Karewas' in the geography of the Kashmir Valley?",
+      "options": [
+        "Glacial moraines on Nanga Parbat",
+        "Lacustrine deposits of Pleistocene origin ideal for saffron cultivation",
+        "Alluvial fans along the Tawi river",
+        "Hot sulphur springs in Pir Panjal"
+      ],
+      "answer": 1,
+      "explanation": "Karewas (Wudars) are thick lacustrine (lake-bed) deposits of clay, silt, and sand formed during the Pleistocene epoch, famous for Pampore saffron, almond, and apple orchards."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Fact",
+      "question": "In traditional Kashmiri seasonal classification, the 40-day harshest winter period beginning on December 21 is called:",
+      "options": [
+        "Chillai Khurd",
+        "Chillai Kalan",
+        "Chillai Bachha",
+        "Wandh"
+      ],
+      "answer": 1,
+      "explanation": "Chillai Kalan runs for 40 days from 21 December to 29 January, followed by the 20-day Chillai Khurd (30 Jan–18 Feb) and 10-day Chillai Bachha (19–28 Feb)."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "The Jammu and Kashmir Reorganisation Act, 2019 came into effect on which date?",
+      "options": [
+        "5 August 2019",
+        "9 August 2019",
+        "31 October 2019",
+        "26 January 2020"
+      ],
+      "answer": 2,
+      "explanation": "The Act was passed by Parliament in August 2019 and came into force on 31 October 2019 (National Unity Day), bifurcating the former state into the UTs of J&K and Ladakh."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Trap",
+      "question": "Under Section 54 of the J&K Reorganisation Act, 2019, what is the maximum permissible strength of the Council of Ministers (including the Chief Minister) in the 90-member J&K Legislative Assembly?",
+      "options": [
+        "15% (14 ministers)",
+        "12% (11 ministers)",
+        "10% (9 ministers)",
+        "20% (18 ministers)"
+      ],
+      "answer": 2,
+      "explanation": "Unlike States capped at 15% under Article 164(1A), Section 54 of the J&K Reorganisation Act, 2019 caps the J&K Council of Ministers at 10% of the total Assembly strength—i.e., 9 ministers including the Chief Minister."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Fact",
+      "question": "Which Schedule of the Jammu and Kashmir Reorganisation Act, 2019 lists the Central Laws made applicable to the Union Territory of Jammu & Kashmir?",
+      "options": [
+        "Second Schedule",
+        "Third Schedule",
+        "Fourth Schedule",
+        "Fifth Schedule"
+      ],
+      "answer": 3,
+      "explanation": "The Fifth Schedule of the J&K Reorganisation Act, 2019 enumerates Central Laws made applicable to the UT of J&K (and State laws repealed or retained)."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "Following the Delimitation Commission's final order (May 2022), how many elected seats are allocated to the Jammu division and Kashmir division respectively in the 90-seat J&K Assembly?",
+      "options": [
+        "37 Jammu and 53 Kashmir",
+        "43 Jammu and 47 Kashmir",
+        "45 Jammu and 45 Kashmir",
+        "40 Jammu and 50 Kashmir"
+      ],
+      "answer": 1,
+      "explanation": "The Delimitation Commission increased total elected seats from 83 to 90—allocating 43 seats to the Jammu division and 47 seats to the Kashmir division (plus 24 reserved for PoJK)."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Trap",
+      "question": "Which of the following matters falls OUTSIDE the legislative competence of the J&K Legislative Assembly under Section 32 of the J&K Reorganisation Act, 2019?",
+      "options": [
+        "Agriculture and Irrigation",
+        "Public Order and Police",
+        "Public Health and Sanitation",
+        "Local Government"
+      ],
+      "answer": 1,
+      "explanation": "Under Section 32, the J&K Assembly can legislate on State List and Concurrent List subjects EXCEPT Entry 1 (Public Order) and Entry 2 (Police) of the State List."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Pulwama",
+      "month": "",
+      "type": "PYQ",
+      "question": "Kashmir Saffron, awarded the Geographical Indication (GI) tag in 2020, is primarily cultivated in which Karewa belt?",
+      "options": [
+        "Pampore",
+        "Sopore",
+        "Kulgam",
+        "Ganderbal"
+      ],
+      "answer": 0,
+      "explanation": "Pampore (Pulwama district) is known as the 'Saffron Town of Kashmir', producing GI-tagged Lachha, Mongra, and Guchhi saffron."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Trap",
+      "question": "Genuine Pashmina (Cashmere) wool used in GI-registered Kashmiri shawls is obtained from which mountain goat species?",
+      "options": [
+        "Markhor (Capra falconeri)",
+        "Changthangi goat (Capra hircus)",
+        "Himalayan Ibex",
+        "Gaddi sheep"
+      ],
+      "answer": 1,
+      "explanation": "Pashmina fleece is harvested from the Changthangi goat (Capra hircus) native to the high-altitude Changthang plateau, whereas Markhor is a wild goat species."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Fact",
+      "question": "What is 'Kani' in the traditional handloom heritage of Jammu & Kashmir?",
+      "options": [
+        "A walnut wood carving technique",
+        "A twill-tapestry shawl weaving technique using small wooden bobbins",
+        "Papier-mâché lacquer painting",
+        "A copperware engraving style"
+      ],
+      "answer": 1,
+      "explanation": "Kani shawls (originating in Kanihama, Budgam) are woven using small eyeless wooden needles/bobbins called 'tujis' following a coded pattern script ('talim')."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "Which town in Jammu & Kashmir is popularly referred to as the 'Apple Town' due to its Asia-renowned fruit mandi?",
+      "options": [
+        "Shopian",
+        "Sopore",
+        "Handwara",
+        "Bijbehara"
+      ],
+      "answer": 1,
+      "explanation": "Sopore in Baramulla district is famously known as the 'Apple Town of Kashmir' and houses one of Asia's largest fruit mandis."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Jammu",
+      "month": "",
+      "type": "Fact",
+      "question": "Which aromatic rice variety from the R.S. Pura belt of Jammu holds a Geographical Indication (GI) tag?",
+      "options": [
+        "Mushk Budji",
+        "Jammu Basmati",
+        "Kamad",
+        "Zag"
+      ],
+      "answer": 1,
+      "explanation": "R.S. Pura (Jammu) is renowned for GI-tagged Jammu Basmati, while Mushk Budji is an aromatic short-grain rice native to Sagam (Anantnag) in Kashmir."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "Which traditional folk theatre form of Kashmir combines satirical storytelling, music, and dance performed by hereditary performers?",
+      "options": [
+        "Rouf",
+        "Bhand Pather",
+        "Kud",
+        "Hafiza Nagma"
+      ],
+      "answer": 1,
+      "explanation": "Bhand Pather is Kashmir's traditional satirical folk theatre combining drama, music (surnai, nagara, dhol), and social commentary."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Srinagar",
+      "month": "",
+      "type": "Trap",
+      "question": "Which Mughal garden in Srinagar was built by Emperor Jahangir for his wife Nur Jahan in 1619 CE?",
+      "options": [
+        "Nishat Bagh",
+        "Shalimar Bagh",
+        "Chashme Shahi",
+        "Pari Mahal"
+      ],
+      "answer": 1,
+      "explanation": "Shalimar Bagh was built by Jahangir in 1619 CE; Nishat Bagh was laid out in 1633 CE by Asaf Khan (Nur Jahan's brother), and Chashme Shahi was built in 1632 CE under Shah Jahan."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Fact",
+      "question": "'Kud' is a popular traditional night-time folk dance performed mainly in which region of Jammu & Kashmir?",
+      "options": [
+        "Central Kashmir",
+        "Mid-mountain areas of Jammu (Chenab & Udhampur belt)",
+        "Gurez Valley",
+        "Lolab Valley"
+      ],
+      "answer": 1,
+      "explanation": "Kud is a nocturnal community folk dance performed in the mountainous Jammu region (Udhampur, Ramban, Doda, Kishtwar) to honour local deities (Gramdevtas)."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "Which classical music tradition of Kashmir uses the 100-stringed Santoor as its primary instrument?",
+      "options": [
+        "Chakri",
+        "Sufiyana Kalam (Sufiyana Mousiqi)",
+        "Wanwun",
+        "Ladishah"
+      ],
+      "answer": 1,
+      "explanation": "Sufiyana Kalam is Kashmir's classical choral-instrumental music tradition based on Maqams, accompanied by the Kashmiri Santoor, Saz-i-Kashmir, and Dokra."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Fact",
+      "question": "Which Kashmiri mystic poetess of the 14th century is revered for her spiritual verses known as 'Vakhs'?",
+      "options": [
+        "Habba Khatoon",
+        "Lal Ded (Lalleshwari)",
+        "Arnimal",
+        "Rupa Bhawani"
+      ],
+      "answer": 1,
+      "explanation": "Lal Ded (Lalleshwari, 1320–1392 CE) composed mystic verses called 'Vakhs' that shaped Kashmiri Shaivism and Sufi syncretic literature."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Srinagar",
+      "month": "",
+      "type": "PYQ",
+      "question": "Dachigam National Park is globally famous as the last viable habitat of which critically endangered deer species?",
+      "options": [
+        "Barasingha",
+        "Hangul (Kashmir Stag)",
+        "Sangai",
+        "Chiru"
+      ],
+      "answer": 1,
+      "explanation": "Dachigam National Park (located 22 km from Srinagar) is the primary protected habitat of the critically endangered Hangul (Cervus hanglu hanglu), the UT animal of J&K."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Trap",
+      "question": "Which of the following wetlands in Jammu & Kashmir was designated as a Ramsar Site in 2022 during India's 75th Independence milestone?",
+      "options": [
+        "Wular Lake",
+        "Hokera Wetland",
+        "Hygam Wetland Conservation Reserve",
+        "Surinsar-Mansar Lakes"
+      ],
+      "answer": 2,
+      "explanation": "Hygam Wetland Conservation Reserve (Baramulla) and Shallabugh Wetland (Ganderbal) were designated Ramsar Sites in August 2022; Wular (1990), Hokera (2005), and Surinsar-Mansar (2005) were designated earlier."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Fact",
+      "question": "Which bird species was declared the official Union Territory Bird of Jammu & Kashmir in October 2021?",
+      "options": [
+        "Black-necked Crane",
+        "Kalij Pheasant",
+        "Himalayan Monal",
+        "Western Tragopan"
+      ],
+      "answer": 1,
+      "explanation": "Following bifurcation (when Black-necked Crane went to Ladakh), the J&K administration notified the Kalij Pheasant (Lophura leucomelanos) as the UT Bird of Jammu & Kashmir."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Baramulla",
+      "month": "",
+      "type": "PYQ",
+      "question": "Kazinag National Park, renowned for the conservation of the endangered Markhor, is situated on the northern bank of which river?",
+      "options": [
+        "Chenab",
+        "Jhelum",
+        "Tawi",
+        "Ujh"
+      ],
+      "answer": 1,
+      "explanation": "Kazinag National Park lies in Baramulla district along the northern bank of the Jhelum River near the Line of Control and protects the Pir Panjal Markhor."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Kishtwar",
+      "month": "",
+      "type": "Fact",
+      "question": "Which high-altitude National Park in Jammu & Kashmir is bounded by the Rinnay River on the north and Kibar Nala catchment on the south?",
+      "options": [
+        "Dachigam National Park",
+        "Kishtwar High Altitude National Park",
+        "City Forest (Salim Ali) National Park",
+        "Kazinag National Park"
+      ],
+      "answer": 1,
+      "explanation": "Kishtwar High Altitude National Park (declared in 1981) spans 2,191 sq. km and hosts snow leopards, Himalayan brown bears, and musk deer."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Ganderbal",
+      "month": "June 2026",
+      "type": "Fact",
+      "question": "In June 2026, which strategic 13.153-km all-weather tunnel connecting Sonamarg (J&K) with Dras (Ladakh) achieved its main bore breakthrough milestone?",
+      "options": [
+        "Z-Morh Tunnel",
+        "Zojila Tunnel",
+        "Chattergala Tunnel",
+        "Sadhna Tunnel"
+      ],
+      "answer": 1,
+      "explanation": "On 9 June 2026, the 13.153-km Zojila Tunnel main bore achieved breakthrough, paving the way for year-round connectivity between Kashmir and Ladakh."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Riasi",
+      "month": "June 2026",
+      "type": "Fact",
+      "question": "In June 2026, a ₹268-crore sediment-bypass tunnel was reported under construction to restore reservoir capacity at which hydropower project on the Chenab River?",
+      "options": [
+        "Baglihar Hydropower Project",
+        "Dulhasti Hydropower Project",
+        "Salal Hydropower Project",
+        "Ratle Hydropower Project"
+      ],
+      "answer": 2,
+      "explanation": "A ₹268-crore sediment-bypass tunnel is being built at the Salal Hydropower Project in Reasi district to flush accumulated silt from its reservoir."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "June 2026",
+      "type": "Fact",
+      "question": "In June 2026, the Jammu & Kashmir government formally sought UNESCO Intangible Cultural Heritage recognition for which traditional Kashmiri art form?",
+      "options": [
+        "Bhand Pather",
+        "Sufiyana Music (Sufiyana Mousiqi)",
+        "Kani Shawl Weaving",
+        "Basohli Miniature Painting"
+      ],
+      "answer": 1,
+      "explanation": "In June 2026, J&K initiated a proposal seeking UNESCO Intangible Cultural Heritage of Humanity status for Sufiyana Music (Sufiyana Kalam)."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "June 2026",
+      "type": "Fact",
+      "question": "Which financial institution based in J&K won the Gold Award at the Finacle Innovation Awards 2026 in June 2026 for Modern Technologies-led Innovation?",
+      "options": [
+        "J&K Grameen Bank",
+        "Jammu & Kashmir Bank",
+        "Ellaquai Dehati Bank",
+        "J&K State Cooperative Bank"
+      ],
+      "answer": 1,
+      "explanation": "Jammu & Kashmir Bank received the Gold Award at the Finacle Innovation Awards 2026 in Mumbai on 3 June 2026 for its AI-driven banking platform."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "June 2026",
+      "type": "Trap",
+      "question": "Which digital surveillance project was highlighted in June 2026 to strengthen real-time monitoring and pilgrim safety during the Shri Amarnath Ji Yatra?",
+      "options": [
+        "Project Trishul",
+        "Project Hawk Eye",
+        "Operation Shiva",
+        "Project Nandi"
+      ],
+      "answer": 1,
+      "explanation": "Project Hawk Eye was deployed for integrated aerial and digital surveillance along the Amarnath Yatra routes in June 2026."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "July 2026",
+      "type": "Fact",
+      "question": "Through S.O. 189 dated 2 July 2026, the J&K government notified detailed rules operationalising which legislation?",
+      "options": [
+        "J&K Panchayati Raj Amendment Act",
+        "Jammu and Kashmir Tenancy Act, 2025",
+        "J&K Ease of Doing Business Act, 2026",
+        "J&K Unified Building Bye-Laws"
+      ],
+      "answer": 1,
+      "explanation": "The J&K Tenancy Rules, 2026 were notified via S.O. 189 on 2 July 2026 under the J&K Tenancy Act, 2025, requiring registration of rental agreements within two months."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "July 2026",
+      "type": "Trap",
+      "question": "Under the Jammu and Kashmir Tenancy Rules, 2026 notified in July 2026, within what time period must landlords and tenants submit tenancy agreement details to the Rent Authority?",
+      "options": [
+        "15 days",
+        "1 month",
+        "2 months",
+        "6 months"
+      ],
+      "answer": 2,
+      "explanation": "Under S.O. 189 (July 2026), tenancy details must be submitted to the Rent Authority within two months of execution, after which a UIN is issued within seven working days."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kishtwar",
+      "month": "July 2026",
+      "type": "Fact",
+      "question": "During the July 2026 monsoon spell, heavy cloudbursts and flash floods raised water levels toward the alert mark along which major river fed by releases from Baglihar and Salal dams?",
+      "options": [
+        "Jhelum",
+        "Chenab",
+        "Tawi",
+        "Ravi"
+      ],
+      "answer": 1,
+      "explanation": "On 19 July 2026, cloudbursts in Kishtwar and heavy rainfall across Jammu division swelled the Chenab River, prompting dam releases at Baglihar and Salal."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "July 2026",
+      "type": "Fact",
+      "question": "In July 2026, Chief Minister Omar Abdullah sought unimpeded livestock transit from which neighbouring state after traders flagged high border fees per mutton truck?",
+      "options": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "answer": 1,
+      "explanation": "In July 2026, the J&K Chief Minister raised the issue of ₹25,000 per-truck livestock market charges at the Punjab border affecting Kashmir's mutton supply."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "July 2026",
+      "type": "Fact",
+      "question": "Under the J&K Tenancy Act, 2025 operationalised in July 2026, within how many days must Rent Courts endeavour to dispose of tenancy applications and appeals?",
+      "options": [
+        "30 days",
+        "45 days",
+        "60 days",
+        "90 days"
+      ],
+      "answer": 2,
+      "explanation": "The J&K Tenancy Act, 2025 mandates that Rent Courts and Rent Tribunals endeavour to resolve tenancy applications and appeals within 60 days."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Rajouri",
+      "month": "August 2026",
+      "type": "Fact",
+      "question": "In August 2026, which centuries-old pilgrimage of Rajouri district was included in India's National Inventory of Intangible Cultural Heritage (ICH)?",
+      "options": [
+        "Budha Amarnath Yatra",
+        "Bhairav Yatra",
+        "Machail Mata Yatra",
+        "Kousarnag Yatra"
+      ],
+      "answer": 1,
+      "explanation": "In August 2026, Rajouri's centuries-old Bhairav Yatra was inscribed in the National Inventory of Intangible Cultural Heritage maintained by Sangeet Natak Akademi."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Pulwama",
+      "month": "August 2026",
+      "type": "Trap",
+      "question": "In August 2026, which invasive sap-sucking insect was detected in poplar and willow plantations in Hanjipora (Pulwama) and Kulgam, raising quarantine concerns?",
+      "options": [
+        "Lymantria dispar",
+        "Drosicha turkistanica",
+        "Spodoptera frugiperda",
+        "Anoplophora glabripennis"
+      ],
+      "answer": 1,
+      "explanation": "Drosicha turkistanica (an invasive giant mealybug species) was reported in August 2026 across poplar and willow plantations in Pulwama and Kulgam."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Doda",
+      "month": "August 2026",
+      "type": "Fact",
+      "question": "In August 2026, the J&K administration approved ₹10 crore for the conservation and restoration of Rattan Garh Fort located in which town of Doda district?",
+      "options": [
+        "Thathri",
+        "Bhaderwah",
+        "Gandoh",
+        "Assar"
+      ],
+      "answer": 1,
+      "explanation": "On 9 August 2026, ₹10 crore was sanctioned for the structural repair and heritage restoration of Rattan Garh Fort in Bhaderwah, Doda district."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "Ganderbal",
+      "month": "August 2026",
+      "type": "Fact",
+      "question": "In August 2026, the Supreme Court ordered land acquisition compensation and rentals dating back to 1953 for land taken over without acquisition for a police station at which place in Ganderbal?",
+      "options": [
+        "Sonamarg",
+        "Kangan",
+        "Lar",
+        "Tullamulla"
+      ],
+      "answer": 1,
+      "explanation": "On 19 August 2026, the Supreme Court directed authorities to pay rental compensation from 1953 and initiate acquisition from 2021 for 7 kanals 18 marlas of land taken for Kangan police station."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Srinagar",
+      "month": "August 2026",
+      "type": "Fact",
+      "question": "In August 2026, Srinagar initiated its first-ever 'Waste to Wonder Garden' using discarded scrap materials at which landmark public park?",
+      "options": [
+        "Badamwari",
+        "Polo Ground Park",
+        "Iqbal Park",
+        "Nigeen Club Park"
+      ],
+      "answer": 1,
+      "explanation": "Srinagar's first Waste to Wonder Garden was launched in August 2026 at Polo Ground Park to showcase upcycled scrap installations."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Samba",
+      "month": "September 2026",
+      "type": "Fact",
+      "question": "In September 2026, LG Manoj Sinha laid foundation stones for over ₹14 crore heritage conservation projects at Purmandal and Uttervehini in which district?",
+      "options": [
+        "Kathua",
+        "Samba",
+        "Udhampur",
+        "Jammu"
+      ],
+      "answer": 1,
+      "explanation": "In September 2026, ₹7.15 crore for Purmandal and ₹6.85 crore for Uttervehini (total ₹14 crore) were launched in Samba district along the Devika River."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "September 2026",
+      "type": "Fact",
+      "question": "In September 2026, which city was approved as the initial place of sitting for the newly sanctioned bench of the High Court of J&K and Ladakh in the UT of Ladakh?",
+      "options": [
+        "Kargil",
+        "Leh",
+        "Dras",
+        "Nubra"
+      ],
+      "answer": 1,
+      "explanation": "Following Union Cabinet approval in August 2026, Leh was formally approved in September 2026 as the initial venue for the Ladakh Bench of the High Court of J&K and Ladakh."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Srinagar",
+      "month": "September 2026",
+      "type": "Fact",
+      "question": "Which premier technical institute in J&K established the Observatory for Astronomy and Astrophysics (NSOAA) equipped with a 14-inch telescope in September 2026?",
+      "options": [
+        "IIT Jammu",
+        "NIT Srinagar",
+        "Islamic University of Science & Technology",
+        "Central University of Kashmir"
+      ],
+      "answer": 1,
+      "explanation": "NIT Srinagar inaugurated the NIT-Srinagar Observatory for Astronomy and Astrophysics (NSOAA) in collaboration with the Indian Institute of Astrophysics (IIA), Bengaluru."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "September 2026",
+      "type": "Fact",
+      "question": "In September 2026, Jammu & Kashmir rolled out Phase-II of which flagship border-area development scheme?",
+      "options": [
+        "Border Area Development Programme (BADP)",
+        "Vibrant Villages Programme-II",
+        "Aspirational Block Programme",
+        "PM-DevINE"
+      ],
+      "answer": 1,
+      "explanation": "J&K initiated implementation of Vibrant Villages Programme-II in September 2026 to strengthen infrastructure and livelihoods in border villages."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Jammu",
+      "month": "September 2026",
+      "type": "Fact",
+      "question": "In September 2026, which district in Jammu & Kashmir introduced AI-based real-time monitoring for public water-supply pumps?",
+      "options": [
+        "Srinagar",
+        "Jammu",
+        "Kathua",
+        "Baramulla"
+      ],
+      "answer": 1,
+      "explanation": "Jammu district rolled out AI-enabled sensor monitoring for water-supply pumping stations in September 2026 to curb outages and leakages."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "October 2026",
+      "type": "Fact",
+      "question": "With the induction of four new ministers on 27 October 2026, the Jammu & Kashmir Council of Ministers reached its constitutional/statutory ceiling of how many members?",
+      "options": [
+        "7 members",
+        "9 members",
+        "11 members",
+        "14 members"
+      ],
+      "answer": 1,
+      "explanation": "The induction of Ali Mohammad Sagar, Shamim Firdous, Mir Saifullah, and Altaf Ahmad Wani on 27 October 2026 brought the J&K Cabinet to its maximum limit of 9 members (10% of 90 seats)."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "October 2026",
+      "type": "Trap",
+      "question": "Which senior portfolio was assigned to Shamim Firdous (MLA Habba Kadal) during the October 2026 J&K Cabinet expansion?",
+      "options": [
+        "Revenue and Power Development",
+        "School Education, Higher Education and Jal Shakti",
+        "Forest, Ecology and Rural Development",
+        "Finance and Home"
+      ],
+      "answer": 1,
+      "explanation": "In the 27 October 2026 Cabinet expansion, Shamim Firdous received School Education, Higher Education, and Jal Shakti, while Ali Mohammad Sagar received Revenue, Power, and Law."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Baramulla",
+      "month": "October 2026",
+      "type": "Fact",
+      "question": "According to a wildlife recovery report highlighted in October 2026, the Kashmir Markhor population in the Kazinag landscape rose by ~71% since 2005 to an estimated:",
+      "options": [
+        "133 individuals",
+        "178 individuals",
+        "227 individuals",
+        "310 individuals"
+      ],
+      "answer": 2,
+      "explanation": "The 2026 assessment 'Recovery of Kashmir Markhor' recorded an estimated 227 Markhors across Kazinag National Park, Limber, Lachipora, and Naganari—up 71% from 133 in 2005."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Srinagar",
+      "month": "October 2026",
+      "type": "Fact",
+      "question": "Which prestigious domestic first-class cricket fixture was scheduled at Sher-i-Kashmir Stadium in Srinagar in October 2026?",
+      "options": [
+        "Duleep Trophy Final",
+        "Irani Cup",
+        "Deodhar Trophy",
+        "Syed Mushtaq Ali Final"
+      ],
+      "answer": 1,
+      "explanation": "Sher-i-Kashmir Stadium, Srinagar was slated to host the 2026 Irani Cup fixture in October 2026, marking a major milestone for cricket in Kashmir."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "October 2026",
+      "type": "Fact",
+      "question": "On 29 October 2026, the Supreme Court Collegium headed by CJI Surya Kant recommended how many advocates for appointment as judges of the High Court of J&K and Ladakh?",
+      "options": [
+        "5 advocates",
+        "7 advocates",
+        "9 advocates",
+        "11 advocates"
+      ],
+      "answer": 2,
+      "explanation": "The Supreme Court Collegium on 29 October 2026 recommended nine advocates for elevation as judges of the High Court of J&K and Ladakh."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "November 2026",
+      "type": "Fact",
+      "question": "Through Government Order No. 227-JK(HUD) of 2026 dated 4 November 2026, the J&K government appointed Rent Authorities and Rent Courts across how many districts?",
+      "options": [
+        "10 districts",
+        "15 districts",
+        "All 20 districts",
+        "Only Srinagar and Jammu"
+      ],
+      "answer": 2,
+      "explanation": "On 4 November 2026, the Housing & Urban Development Department designated ADCs as Rent Courts and ACRs/SDMs as Rent Authorities across all 20 districts under Sections 30 & 33 of the J&K Tenancy Act, 2025."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "November 2026",
+      "type": "Fact",
+      "question": "In November 2026, the J&K government notified exemptions from duplicate local permissions and brought tree-felling approvals under self-certification to operationalise which Act?",
+      "options": [
+        "J&K Industrial Land Allotment Act",
+        "Jammu and Kashmir Ease of Doing Business Act, 2026",
+        "J&K Forest Conservation Act",
+        "J&K Municipal Corporation Act"
+      ],
+      "answer": 1,
+      "explanation": "Notifications issued on 4 and 9 November 2026 operationalised the J&K Ease of Doing Business Act, 2026 by removing redundant local licences and allowing self-certification under Schedule V."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Anantnag",
+      "month": "November 2026",
+      "type": "Fact",
+      "question": "In November 2026, an environmental report flagged ecological violations in Overa-Aru Wildlife Sanctuary, which protects the catchment of which river near Pahalgam?",
+      "options": [
+        "Sindh River",
+        "Lidder River",
+        "Vishav River",
+        "Rambiara River"
+      ],
+      "answer": 1,
+      "explanation": "Overa-Aru Wildlife Sanctuary (511 sq. km) in Anantnag district protects the upper catchment area of the Lidder River and provides critical habitat for Hangul and musk deer."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "November 2026",
+      "type": "Trap",
+      "question": "Under the J&K Tenancy Act, 2025 operationalised across all 20 districts in November 2026, which officers have largely been designated as 'Rent Courts'?",
+      "options": [
+        "Tehsildars",
+        "Sub-Divisional Magistrates (SDMs)",
+        "Additional Deputy Commissioners (ADCs)",
+        "District & Sessions Judges"
+      ],
+      "answer": 2,
+      "explanation": "Under G.O. No. 227-JK(HUD) of 2026 (November 2026), ADCs are designated as Rent Courts (Section 33), while ACRs and SDMs are designated as Rent Authorities (Section 30)."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "November 2026",
+      "type": "Fact",
+      "question": "In November 2026, J&K Police busted an inter-state examination cheating racket using micro-earpieces and walkie-talkies, recalling the December 2025 termination of 103 tainted recruits from which department?",
+      "options": [
+        "Forest Protection Force",
+        "Fire and Emergency Services",
+        "Public Works Department",
+        "Jal Shakti Department"
+      ],
+      "answer": 1,
+      "explanation": "In November 2026, J&K Police dismantled a wireless exam-cheating module; earlier in December 2025, 103 firemen and fireman drivers of Fire & Emergency Services were terminated over recruitment tampering."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Anantnag",
+      "month": "",
+      "type": "PYQ",
+      "question": "Which sacred spring in Anantnag district is the traditional source of the River Jhelum?",
+      "options": [
+        "Achabal Spring",
+        "Verinag Spring",
+        "Kokernag Spring",
+        "Martand Spring"
+      ],
+      "answer": 1,
+      "explanation": "Verinag Spring at the foothills of the Pir Panjal in Anantnag is the source of the Jhelum (Vitasta); Jahangir built an octagonal stone basin around it."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Anantnag",
+      "month": "",
+      "type": "Fact",
+      "question": "Kokernag in Anantnag district is famous for Asia's largest:",
+      "options": [
+        "Tulip Garden",
+        "Freshwater Trout Fish Farm & Botanical Garden",
+        "Saffron Research Station",
+        "Walnut Processing Cluster"
+      ],
+      "answer": 1,
+      "explanation": "Kokernag houses Asia's largest trout fish farming project alongside a multi-spring botanical garden."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Anantnag",
+      "month": "",
+      "type": "Trap",
+      "question": "Mushk Budji, an aromatic short-grain heritage rice variety granted GI tag, is traditionally grown in which belt of Anantnag?",
+      "options": [
+        "Sagam (Kokernag)",
+        "Bijbehara",
+        "Qazigund",
+        "Mattan"
+      ],
+      "answer": 0,
+      "explanation": "Mushk Budji is revived and cultivated primarily in the Sagam belt of Kokernag, Anantnag district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Anantnag",
+      "month": "",
+      "type": "Fact",
+      "question": "The Lidder River joins the Jhelum near which town in Anantnag district?",
+      "options": [
+        "Pahalgam",
+        "Mirgund / Khanabal",
+        "Verinag",
+        "Dooru"
+      ],
+      "answer": 1,
+      "explanation": "The Lidder River originates from the Kolahoi Glacier, flows past Pahalgam, and merges with the Jhelum at Gur near Khanabal in Anantnag."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Anantnag",
+      "month": "",
+      "type": "PYQ",
+      "question": "Betaab Valley and Aru Valley, major trekking base camps for Kolahoi Glacier, are located near which town in Anantnag?",
+      "options": [
+        "Achabal",
+        "Pahalgam",
+        "Daksum",
+        "Mattan"
+      ],
+      "answer": 1,
+      "explanation": "Both Betaab Valley (Hajan) and Aru Valley lie along the Lidder river circuit near Pahalgam in Anantnag district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Bandipora",
+      "month": "",
+      "type": "PYQ",
+      "question": "Wular Lake, one of Asia's largest freshwater lakes, is located in which district of Jammu & Kashmir?",
+      "options": [
+        "Baramulla",
+        "Bandipora",
+        "Ganderbal",
+        "Kupwara"
+      ],
+      "answer": 1,
+      "explanation": "Wular Lake lies mainly in Bandipora district and is fed by the Jhelum River, acting as a natural flood-absorption basin."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Bandipora",
+      "month": "",
+      "type": "Fact",
+      "question": "Which scenic high-altitude valley in Bandipora district lies along the Kishanganga River near the Line of Control?",
+      "options": [
+        "Bangus Valley",
+        "Gurez Valley",
+        "Lolab Valley",
+        "Warwan Valley"
+      ],
+      "answer": 1,
+      "explanation": "Gurez Valley (Dawar) in Bandipora is drained by the Kishanganga River and is home to the Dard-Shin community."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Bandipora",
+      "month": "",
+      "type": "Trap",
+      "question": "The pyramid-shaped Habba Khatoon Peak is a prominent landmark situated in which valley of Bandipora district?",
+      "options": [
+        "Tulail / Gurez Valley",
+        "Arin Valley",
+        "Erin Valley",
+        "Madhumati Valley"
+      ],
+      "answer": 0,
+      "explanation": "Habba Khatoon Peak overlooks Dawar in the Gurez Valley of Bandipora, named after the 16th-century Kashmiri poetess."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Bandipora",
+      "month": "",
+      "type": "Fact",
+      "question": "Razdan Pass (11,672 ft) connects Bandipora town with which remote valley?",
+      "options": [
+        "Karnah",
+        "Gurez",
+        "Marwah",
+        "Paddar"
+      ],
+      "answer": 1,
+      "explanation": "Razdan Pass is the sole road link connecting Bandipora with Gurez and Tulail valleys."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Bandipora",
+      "month": "",
+      "type": "Fact",
+      "question": "Which 330-MW run-of-the-river hydroelectric project is located in Bandipora district?",
+      "options": [
+        "Uri-I",
+        "Kishanganga Hydroelectric Project",
+        "Lower Jhelum",
+        "New Ganderbal"
+      ],
+      "answer": 1,
+      "explanation": "The 330-MW Kishanganga Hydroelectric Project diverts water from the Kishanganga River in Gurez to a powerhouse near Bandipora."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Baramulla",
+      "month": "",
+      "type": "PYQ",
+      "question": "Gulmarg, home to one of the world's highest gondola cable cars (Apharwat Peak), lies in which district?",
+      "options": [
+        "Budgam",
+        "Baramulla",
+        "Kupwara",
+        "Pulwama"
+      ],
+      "answer": 1,
+      "explanation": "Gulmarg is located in the Tangmarg tehsil of Baramulla district in the Pir Panjal range."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Baramulla",
+      "month": "",
+      "type": "Fact",
+      "question": "Which wetland in Baramulla district was designated a Ramsar Site in 2022 and lies downstream of Srinagar along the Jhelum?",
+      "options": [
+        "Shallabugh",
+        "Hygam Wetland Conservation Reserve",
+        "Hokera",
+        "Gharana"
+      ],
+      "answer": 1,
+      "explanation": "Hygam Wetland Conservation Reserve in Baramulla (Sopore) was declared a Ramsar Site in August 2022."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Baramulla",
+      "month": "",
+      "type": "Fact",
+      "question": "Both Uri-I (480 MW) and Uri-II (240 MW) hydroelectric power stations are built on which river in Baramulla district?",
+      "options": [
+        "Kishanganga",
+        "Jhelum",
+        "Sindh",
+        "Ferozepur Nallah"
+      ],
+      "answer": 1,
+      "explanation": "Uri-I and Uri-II are run-of-the-river hydroelectric projects on the Jhelum River near the LoC in Baramulla."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Baramulla",
+      "month": "",
+      "type": "Trap",
+      "question": "The ancient Buddhist stupa and monastery ruins at Parihaspora—built by King Lalitaditya as his capital—are situated in which district?",
+      "options": [
+        "Srinagar",
+        "Baramulla",
+        "Anantnag",
+        "Budgam"
+      ],
+      "answer": 1,
+      "explanation": "Parihaspora ('City of Pleasure'), founded by Lalitaditya Muktapida in the 8th century CE, is located near Pattan in Baramulla district."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Baramulla",
+      "month": "",
+      "type": "Fact",
+      "question": "Which alpine lake sits at the base of Apharwat Peak near Gulmarg in Baramulla district?",
+      "options": [
+        "Gangabal Lake",
+        "Alpather Lake",
+        "Tarsar Lake",
+        "Sheshnag Lake"
+      ],
+      "answer": 1,
+      "explanation": "Alpather Lake (the 'Frozen Lake') sits at 4,390 m at the foot of the twin Apharwat peaks in Gulmarg, Baramulla."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Budgam",
+      "month": "",
+      "type": "PYQ",
+      "question": "Doodhpathri ('Valley of Milk'), a bowl-shaped alpine meadow in the Pir Panjal range, is located in which district?",
+      "options": [
+        "Pulwama",
+        "Budgam",
+        "Shopian",
+        "Baramulla"
+      ],
+      "answer": 1,
+      "explanation": "Doodhpathri lies in the Khansahib tehsil of Budgam district, drained by the Shaliganga stream."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Budgam",
+      "month": "",
+      "type": "Fact",
+      "question": "The revered shrine of Sufi saint Sheikh Noor-ud-din Noorani (Nund Rishi) is located at which town in Budgam district?",
+      "options": [
+        "Chadoora",
+        "Charar-i-Sharief",
+        "Beerwah",
+        "Magam"
+      ],
+      "answer": 1,
+      "explanation": "Charar-i-Sharief in Budgam houses the 15th-century shrine of Sheikh Noor-ud-din Wali, patron saint of Kashmir."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Budgam",
+      "month": "",
+      "type": "Fact",
+      "question": "Which meadow in Budgam district is famous for its spring carpet of yellow wild crocuses and lies near Pakherpora?",
+      "options": [
+        "Yusmarg",
+        "Tosamaidan",
+        "Nilnag",
+        "Khag"
+      ],
+      "answer": 0,
+      "explanation": "Yusmarg ('Meadow of Jesus') is a picturesque hill station in Budgam district situated along the Doodhganga River."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Budgam",
+      "month": "",
+      "type": "Trap",
+      "question": "Kanihama, the historic birthplace of Kashmir's GI-tagged Kani shawl weaving, is situated in which district?",
+      "options": [
+        "Srinagar",
+        "Budgam",
+        "Ganderbal",
+        "Bandipora"
+      ],
+      "answer": 1,
+      "explanation": "Kanihama village lies on the Srinagar-Gulmarg highway in Budgam district."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Budgam",
+      "month": "",
+      "type": "Fact",
+      "question": "Major Somnath Sharma, India's first Param Vir Chakra recipient, attained martyrdom defending Srinagar airport during which November 1947 battle in Budgam?",
+      "options": [
+        "Battle of Shalateng",
+        "Battle of Badgam",
+        "Battle of Zojila",
+        "Battle of Uri"
+      ],
+      "answer": 1,
+      "explanation": "Major Somnath Sharma led D Company of 4 Kumaon at the Battle of Badgam on 3 November 1947, halting tribal raiders advancing on Srinagar airfield."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Ganderbal",
+      "month": "",
+      "type": "PYQ",
+      "question": "Manasbal Lake, often called the 'Supreme Gem of all Kashmir Lakes' and the deepest lake in the Kashmir Valley, is located in:",
+      "options": [
+        "Srinagar",
+        "Ganderbal",
+        "Bandipora",
+        "Pulwama"
+      ],
+      "answer": 1,
+      "explanation": "Manasbal Lake lies in Ganderbal district near Safapora and is famous for lotus blooms and Mughal garden ruins (Jaroka Bagh)."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Ganderbal",
+      "month": "",
+      "type": "Fact",
+      "question": "The sacred Kheer Bhawani Temple dedicated to Goddess Ragnya Devi is situated at which village in Ganderbal district?",
+      "options": [
+        "Kangan",
+        "Tullamulla",
+        "Naranag",
+        "Wayil"
+      ],
+      "answer": 1,
+      "explanation": "Mata Kheer Bhawani Temple is located over a sacred spring at Tullamulla in Ganderbal district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Ganderbal",
+      "month": "",
+      "type": "Fact",
+      "question": "Gangabal Lake, an alpine lake at the foothills of Mount Harmukh, serves as the source of which tributary of the Sindh River in Ganderbal?",
+      "options": [
+        "Lidder",
+        "Wangath Nallah",
+        "Erin Nallah",
+        "Madhumati"
+      ],
+      "answer": 1,
+      "explanation": "Gangabal Lake in Ganderbal drains into Nundkol Lake and forms Wangath Nallah, which joins the Sindh River near Kangan."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Ganderbal",
+      "month": "",
+      "type": "Fact",
+      "question": "The 8th-century stone temple ruins at Naranag (Wangath) in Ganderbal were built by which Kashmiri ruler?",
+      "options": [
+        "Avantivarman",
+        "Lalitaditya Muktapida",
+        "Didda",
+        "Zain-ul-Abidin"
+      ],
+      "answer": 1,
+      "explanation": "Lalitaditya Muktapida constructed the Naranag temple complex dedicated to Lord Shiva in Ganderbal."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Ganderbal",
+      "month": "",
+      "type": "Trap",
+      "question": "Baltal, the shorter northern base camp for the annual Shri Amarnath Ji Yatra, falls under which district?",
+      "options": [
+        "Anantnag",
+        "Ganderbal",
+        "Kishtwar",
+        "Bandipora"
+      ],
+      "answer": 1,
+      "explanation": "While Pahalgam (the traditional route) is in Anantnag, the Baltal base camp near Sonamarg lies in Ganderbal district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kulgam",
+      "month": "",
+      "type": "PYQ",
+      "question": "Aharbal Waterfall, famously known as the 'Niagara Falls of Kashmir', is formed by which river in Kulgam district?",
+      "options": [
+        "Lidder",
+        "Vishav (Veshaw)",
+        "Rambiara",
+        "Doodhganga"
+      ],
+      "answer": 1,
+      "explanation": "Aharbal Waterfall in Kulgam is formed where the Vishav River plunges 25 metres through a narrow granite gorge."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kulgam",
+      "month": "",
+      "type": "Fact",
+      "question": "Kousarnag (Kausar Nag), a high-altitude oligotrophic alpine lake in the Pir Panjal range, is the primary source of which river in Kulgam?",
+      "options": [
+        "Jhelum",
+        "Vishav",
+        "Sindh",
+        "Tawi"
+      ],
+      "answer": 1,
+      "explanation": "Kousarnag Lake in Kulgam feeds the Vishav River, a major left-bank tributary of the Jhelum."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Kulgam",
+      "month": "",
+      "type": "Fact",
+      "question": "Sheikh Noor-ud-din Noorani (Nund Rishi), founder of the Rishi order in Kashmir, was born in 1377 CE at which village in Kulgam?",
+      "options": [
+        "Qaimoh",
+        "Kaimuh",
+        "Yaripora",
+        "Frisal"
+      ],
+      "answer": 1,
+      "explanation": "Sheikh Noor-ud-din Noorani was born at Kaimuh (Qaimoh) in Kulgam district."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Kulgam",
+      "month": "",
+      "type": "Fact",
+      "question": "Kulgam is popularly known as the 'Rice Bowl of Kashmir' primarily due to extensive canal irrigation from which river system?",
+      "options": [
+        "Vishav and Rambiara streams",
+        "Sindh River",
+        "Kishanganga River",
+        "Lidder River"
+      ],
+      "answer": 0,
+      "explanation": "Kulgam's fertile alluvial plains irrigated by the Vishav and Rambiara streams give it the title 'Rice Bowl of Kashmir'."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Kulgam",
+      "month": "",
+      "type": "Trap",
+      "question": "Chiranbal meadows and Kongwattan trekking trail are emerging eco-tourism destinations located in which district?",
+      "options": [
+        "Shopian",
+        "Kulgam",
+        "Budgam",
+        "Poonch"
+      ],
+      "answer": 1,
+      "explanation": "Kongwattan and Chiranbal lie along the Aharbal–Kousarnag trekking circuit in Kulgam district."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Kupwara",
+      "month": "",
+      "type": "PYQ",
+      "question": "Lolab Valley, celebrated by Allama Iqbal in his poetry as the 'Land of Love and Beauty', is situated in which district?",
+      "options": [
+        "Bandipora",
+        "Kupwara",
+        "Baramulla",
+        "Budgam"
+      ],
+      "answer": 1,
+      "explanation": "Lolab Valley (comprising Kalaroos, Sogam, and Chandigam) is located in Kupwara district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kupwara",
+      "month": "",
+      "type": "Fact",
+      "question": "Bangus Valley, a pristine twin-meadow ecosystem (Bodh Bangus and Lokut Bangus), lies in which district?",
+      "options": [
+        "Kupwara",
+        "Ganderbal",
+        "Shopian",
+        "Rajouri"
+      ],
+      "answer": 0,
+      "explanation": "Bangus Valley sits at ~10,000 ft in the Handwara/Mawar belt of Kupwara district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kupwara",
+      "month": "",
+      "type": "Fact",
+      "question": "Sadhna Pass (formerly Nastachun Pass) connects Kupwara with which border tehsil?",
+      "options": [
+        "Gurez",
+        "Karnah (Tangdhar)",
+        "Uri",
+        "Keran"
+      ],
+      "answer": 1,
+      "explanation": "Sadhna Pass (10,269 ft) connects Kupwara with the Karnah (Tangdhar) valley near the LoC."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Kupwara",
+      "month": "",
+      "type": "Fact",
+      "question": "The ancient megalithic 'Satbaran' (Seven Doors) rock caves are located in which belt of Kupwara district?",
+      "options": [
+        "Kalaroos",
+        "Trehgam",
+        "Langate",
+        "Kralpora"
+      ],
+      "answer": 0,
+      "explanation": "Kalaroos in Lolab Valley, Kupwara houses the historic Satbaran stone monument and ancient rock caves."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Kupwara",
+      "month": "",
+      "type": "Trap",
+      "question": "Keran and Machil valleys, developed under J&K's border-tourism initiative along the Kishanganga River, belong to which district?",
+      "options": [
+        "Bandipora",
+        "Kupwara",
+        "Baramulla",
+        "Poonch"
+      ],
+      "answer": 1,
+      "explanation": "Both Keran and Machil sectors are located in Kupwara district along the Line of Control."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Pulwama",
+      "month": "",
+      "type": "PYQ",
+      "question": "Awantipora, famous for the 9th-century ruins of the Avantiswami and Avantisvara temples, is located in which district?",
+      "options": [
+        "Anantnag",
+        "Pulwama",
+        "Srinagar",
+        "Shopian"
+      ],
+      "answer": 1,
+      "explanation": "King Avantivarman (855–883 CE), founder of the Utpala dynasty, established Awantipora on the banks of the Jhelum in Pulwama district."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Pulwama",
+      "month": "",
+      "type": "Fact",
+      "question": "Pulwama is popularly termed the 'Anand of Kashmir' because it leads Jammu & Kashmir in the production of:",
+      "options": [
+        "Saffron",
+        "Milk and Dairy Products",
+        "Walnuts",
+        "Silk Cocoons"
+      ],
+      "answer": 1,
+      "explanation": "Pulwama is the largest milk-producing district in J&K, earning the sobriquet 'Anand of Kashmir'."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Pulwama",
+      "month": "",
+      "type": "Fact",
+      "question": "Tarsar and Marsar twin alpine lakes are accessed via trekking routes originating near Aru and which wildlife sanctuary in Pulwama?",
+      "options": [
+        "Overa-Aru",
+        "Tral Wildlife Sanctuary (Shikargah)",
+        "Hirpora",
+        "Lachipora"
+      ],
+      "answer": 1,
+      "explanation": "Tral Wildlife Sanctuary (Shikargah) in Pulwama is an important Hangul corridor connecting Dachigam with Overa-Aru and Tarsar-Marsar."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Pulwama",
+      "month": "",
+      "type": "Trap",
+      "question": "Lethpora in Pulwama district is home to the India International Kashmir Saffron Trading Centre (IIKSTC) located near which town?",
+      "options": [
+        "Tral",
+        "Pampore",
+        "Kakapora",
+        "Rajpora"
+      ],
+      "answer": 1,
+      "explanation": "The India International Kashmir Saffron Trading Centre (IIKSTC) was established at Dusso/Lethpora near Pampore in Pulwama."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Pulwama",
+      "month": "",
+      "type": "Fact",
+      "question": "Which village in Pulwama district became famous as India's first 'Pencil Village' for supplying wooden slats made from poplar wood?",
+      "options": [
+        "Oukhoo",
+        "Pampore",
+        "Lassipora",
+        "Tahab"
+      ],
+      "answer": 0,
+      "explanation": "Oukhoo village in Pulwama manufactures over 80–90% of India's wooden pencil slats from local poplar timber."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Shopian",
+      "month": "",
+      "type": "PYQ",
+      "question": "The historic Mughal Road connects Shopian in the Kashmir Valley with which district of the Jammu division via Pir Ki Gali?",
+      "options": [
+        "Rajouri",
+        "Poonch",
+        "Reasi",
+        "Ramban"
+      ],
+      "answer": 1,
+      "explanation": "The Mughal Road crosses Pir Ki Gali (11,450 ft) to link Shopian district with Bufliaz in Poonch district."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "Shopian",
+      "month": "",
+      "type": "Fact",
+      "question": "Hirpora Wildlife Sanctuary, located along the Mughal Road in Shopian, is a critical habitat for which endangered wild goat?",
+      "options": [
+        "Nilgiri Tahr",
+        "Pir Panjal Markhor",
+        "Goral",
+        "Ibex"
+      ],
+      "answer": 1,
+      "explanation": "Hirpora Wildlife Sanctuary in Shopian protects the Pir Panjal Markhor, Himalayan brown bear, and musk deer."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Shopian",
+      "month": "",
+      "type": "Fact",
+      "question": "Which major tributary of the Jhelum originates in the Pir Panjal range and flows through Shopian district?",
+      "options": [
+        "Lidder",
+        "Rambiara",
+        "Sindh",
+        "Vishav"
+      ],
+      "answer": 1,
+      "explanation": "The Rambiara (Rembi Ara) stream flows through Shopian district before joining the Jhelum near Sangam."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Shopian",
+      "month": "",
+      "type": "Fact",
+      "question": "Shopian is widely known as the 'Apple Bowl of Kashmir' primarily due to high-density cultivation of which premium fruit?",
+      "options": [
+        "Saffron",
+        "Apples",
+        "Apricots",
+        "Pears"
+      ],
+      "answer": 1,
+      "explanation": "Shopian's climate and elevation make it J&K's top producer of high-grade Ambri, Delicious, and high-density apples."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Shopian",
+      "month": "",
+      "type": "Trap",
+      "question": "Dubjan hot sulphur springs and Lal Ghulam waterfall are tourist attractions situated along the Mughal Road in which district?",
+      "options": [
+        "Kulgam",
+        "Shopian",
+        "Budgam",
+        "Poonch"
+      ],
+      "answer": 1,
+      "explanation": "Dubjan, known for natural sulphur springs and Mughal sarai remains, lies in Shopian district along the Mughal Road."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Srinagar",
+      "month": "",
+      "type": "PYQ",
+      "question": "In November 2021, Srinagar was designated as a member of the UNESCO Creative Cities Network (UCCN) in which category?",
+      "options": [
+        "Gastronomy",
+        "Crafts and Folk Art",
+        "Literature",
+        "Music"
+      ],
+      "answer": 1,
+      "explanation": "UNESCO inducted Srinagar into the Creative Cities Network in 2021 under 'Crafts and Folk Art' for its Papier-mâché, Kani shawl, and walnut wood carving traditions."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Srinagar",
+      "month": "",
+      "type": "Fact",
+      "question": "Dal Lake in Srinagar is divided into four basins: Gagribal, Lokut Dal, Bod Dal, and:",
+      "options": [
+        "Anchar",
+        "Nigeen",
+        "Manasbal",
+        "Hokera"
+      ],
+      "answer": 1,
+      "explanation": "Dal Lake comprises four interconnected basins—Gagribal, Lokut Dal, Bod Dal, and Nigeen—with Char Chinar located in Lokut Dal."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Srinagar",
+      "month": "",
+      "type": "Trap",
+      "question": "Pari Mahal ('Palace of Fairies'), a seven-terraced monument overlooking Dal Lake, was originally built as a Buddhist monastery/observatory by:",
+      "options": [
+        "Emperor Akbar",
+        "Prince Dara Shikoh",
+        "Emperor Aurangzeb",
+        "Asaf Khan"
+      ],
+      "answer": 1,
+      "explanation": "Mughal prince Dara Shikoh (eldest son of Shah Jahan) built Pari Mahal in the mid-17th century as a library and astronomical observatory for his Sufi tutor Mulla Shah."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Srinagar",
+      "month": "",
+      "type": "Fact",
+      "question": "The Indira Gandhi Memorial Tulip Garden in Srinagar, Asia's largest tulip garden, sits at the foothills of which mountain range?",
+      "options": [
+        "Pir Panjal Range",
+        "Zabarwan Range",
+        "Harmukh Range",
+        "Karakoram Range"
+      ],
+      "answer": 1,
+      "explanation": "The Indira Gandhi Memorial Tulip Garden (Siraj Bagh) is terraced along the foothills of the Zabarwan Range overlooking Dal Lake."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Srinagar",
+      "month": "",
+      "type": "PYQ",
+      "question": "Jamia Masjid of Srinagar, renowned for its Indo-Saracenic wooden architecture and 378 deodar pillars, was originally built in 1394 CE by:",
+      "options": [
+        "Sultan Zain-ul-Abidin",
+        "Sultan Sikandar",
+        "Shah Mir",
+        "Yusuf Shah Chak"
+      ],
+      "answer": 1,
+      "explanation": "Sultan Sikandar Butshikan commissioned Jamia Masjid in Nowhatta, Srinagar in 1394 CE (completed in 1402 CE) and later expanded by Sultan Zain-ul-Abidin."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Doda",
+      "month": "",
+      "type": "PYQ",
+      "question": "Bhaderwah Valley in Doda district is affectionately known across Jammu & Kashmir as:",
+      "options": [
+        "Mini Switzerland",
+        "Chhota Kashmir",
+        "Land of Lakes",
+        "Valley of Saffron"
+      ],
+      "answer": 1,
+      "explanation": "Bhaderwah in Doda district is famously called 'Chhota Kashmir' for its lush meadows, deodar forests, and alpine climate."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Doda",
+      "month": "",
+      "type": "Fact",
+      "question": "Bhaderwah in Doda district emerged as the epicenter of India's 'Purple Revolution' through the commercial cultivation of:",
+      "options": [
+        "Saffron",
+        "Lavender",
+        "Blueberry",
+        "Lilac"
+      ],
+      "answer": 1,
+      "explanation": "Under CSIR-IIIM's Aroma Mission, Bhaderwah (Doda) pioneered India's Purple Revolution by shifting farmers to high-value lavender oil cultivation."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Doda",
+      "month": "",
+      "type": "Fact",
+      "question": "The annual Kailash Kund Yatra begins from Gatha in Bhaderwah (Doda district) and culminates at the high-altitude lake dedicated to:",
+      "options": [
+        "Vasuki Nag",
+        "Lord Shiva",
+        "Mata Vaishno Devi",
+        "Sheetla Mata"
+      ],
+      "answer": 0,
+      "explanation": "The Kailash Kund Yatra in Bhaderwah is dedicated to Vasuki Nag (the presiding deity of Bhaderwah) at Kaplash Kund (14,500 ft)."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Doda",
+      "month": "",
+      "type": "Trap",
+      "question": "Jai Valley and Padri Pass—connecting Bhaderwah with Chamba in Himachal Pradesh—are located in which district?",
+      "options": [
+        "Kishtwar",
+        "Doda",
+        "Kathua",
+        "Ramban"
+      ],
+      "answer": 1,
+      "explanation": "Jai Valley and Padri Gali are prominent tourist and transit landmarks in the Bhaderwah tehsil of Doda district."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Doda",
+      "month": "",
+      "type": "Fact",
+      "question": "Bhaderwah Rajmash (red kidney beans), known for its distinctive taste and texture, received a GI tag from which district?",
+      "options": [
+        "Ramban",
+        "Doda",
+        "Kishtwar",
+        "Udhampur"
+      ],
+      "answer": 1,
+      "explanation": "Bhaderwah Rajmash (along with Ramban Sulai Honey) received Geographical Indication (GI) recognition in 2023."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Jammu",
+      "month": "",
+      "type": "PYQ",
+      "question": "Bahu Fort, one of Jammu's oldest structures overlooking the Tawi River, was originally built by:",
+      "options": [
+        "Maharaja Gulab Singh",
+        "Raja Bahulochan",
+        "Maharaja Ranbir Singh",
+        "Raja Jambu Lochan"
+      ],
+      "answer": 1,
+      "explanation": "Bahu Fort was originally constructed around 3,000 years ago by Raja Bahulochan (brother of Jammu's founder Raja Jambu Lochan) and later renovated by the Dogra rulers."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Jammu",
+      "month": "",
+      "type": "Fact",
+      "question": "Mubarak Mandi Palace, the royal seat of the Dogra dynasty until 1925, blends Rajasthani, Mughal, and European Baroque architecture in:",
+      "options": [
+        "Udhampur",
+        "Jammu",
+        "Kathua",
+        "Samba"
+      ],
+      "answer": 1,
+      "explanation": "Mubarak Mandi in Jammu served as the royal residence and administrative headquarters of the Dogra Maharajas before the shift to Hari Niwas Palace."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Jammu",
+      "month": "",
+      "type": "Fact",
+      "question": "Gharana Wetland Conservation Reserve, a major winter habitat for bar-headed geese near the India-Pakistan border, is located in which tehsil of Jammu?",
+      "options": [
+        "Akhnoor",
+        "R.S. Pura",
+        "Bishnah",
+        "Marh"
+      ],
+      "answer": 1,
+      "explanation": "Gharana Wetland lies in the R.S. Pura sector of Jammu district and hosts thousands of migratory waterfowl every winter."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Jammu",
+      "month": "",
+      "type": "Trap",
+      "question": "The Harappan-era archaeological site of Manda—the northernmost outpost of the Indus Valley Civilization—is situated on the banks of which river in Akhnoor (Jammu)?",
+      "options": [
+        "Tawi",
+        "Chenab",
+        "Ravi",
+        "Ujh"
+      ],
+      "answer": 1,
+      "explanation": "Manda in Akhnoor (Jammu district) sits on the right bank of the Chenab River and marks the northernmost excavated site of the Harappan civilization."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Jammu",
+      "month": "",
+      "type": "Fact",
+      "question": "The Jhiri Mela is an annual week-long fair held in Jammu district to commemorate the martyrdom of which peasant folk hero?",
+      "options": [
+        "Mian Dido",
+        "Baba Jitto",
+        "Zorawar Singh",
+        "Banda Bahadur"
+      ],
+      "answer": 1,
+      "explanation": "Jhiri Mela is held every Kartik Purnima at Jhiri village (Marh, Jammu) in honour of Baba Jitto, a farmer who sacrificed his life against feudal injustice."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kathua",
+      "month": "",
+      "type": "PYQ",
+      "question": "The Ranjit Sagar Dam (Thein Dam) is constructed across which river along the border of Kathua district (J&K) and Punjab?",
+      "options": [
+        "Chenab",
+        "Ravi",
+        "Ujh",
+        "Beas"
+      ],
+      "answer": 1,
+      "explanation": "Ranjit Sagar Dam is built on the Ravi River at Thein, forming a massive reservoir bordering Basholi in Kathua district."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Kathua",
+      "month": "",
+      "type": "Fact",
+      "question": "Basholi (Basohli) in Kathua district is world-famous for its GI-tagged:",
+      "options": [
+        "Walnut Wood Carving",
+        "Miniature Pahari Paintings",
+        "Saffron Cultivation",
+        "Kani Shawls"
+      ],
+      "answer": 1,
+      "explanation": "Basohli Miniature Painting, celebrated for bold primary colours and lustrous beetle-wing inlays, became the first independent GI-tagged craft from the Jammu region in 2023."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kathua",
+      "month": "",
+      "type": "Fact",
+      "question": "Sarthal Valley and Bani, popular high-altitude tourist destinations in the Jammu division, are located in which district?",
+      "options": [
+        "Udhampur",
+        "Kathua",
+        "Doda",
+        "Ramban"
+      ],
+      "answer": 1,
+      "explanation": "Bani and Sarthal Valley lie in the mountainous northern belt of Kathua district bordering Himachal Pradesh."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Kathua",
+      "month": "",
+      "type": "Trap",
+      "question": "The ancient rock-cut cave temples at Mukteshwar Dham (Mandli) are located near which town in Kathua district?",
+      "options": [
+        "Hiranagar",
+        "Billawar",
+        "Basholi",
+        "Lakhanpur"
+      ],
+      "answer": 1,
+      "explanation": "Mukteshwar Dham in Billawar (Kathua) features ancient rock-cut temples traditionally linked to the Pandavas."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kathua",
+      "month": "",
+      "type": "Fact",
+      "question": "Lakhanpur, the historic southern gateway entry point into Jammu & Kashmir from Punjab, is situated in which district?",
+      "options": [
+        "Samba",
+        "Kathua",
+        "Jammu",
+        "Udhampur"
+      ],
+      "answer": 1,
+      "explanation": "Lakhanpur sits on the banks of the Ravi River in Kathua district and serves as the main road entry gateway into J&K."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Kishtwar",
+      "month": "",
+      "type": "PYQ",
+      "question": "Apart from Pampore in Kashmir, which district in the Jammu division is famous for cultivating high-quality saffron?",
+      "options": [
+        "Doda",
+        "Kishtwar",
+        "Ramban",
+        "Reasi"
+      ],
+      "answer": 1,
+      "explanation": "Pochhal plateau in Kishtwar district is the only area in the Jammu division where saffron ('Kong') is traditionally cultivated."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kishtwar",
+      "month": "",
+      "type": "Fact",
+      "question": "The 390-MW Dulhasti and 850-MW Ratle hydroelectric projects are situated on which river in Kishtwar district?",
+      "options": [
+        "Marusudar",
+        "Chenab",
+        "Jhelum",
+        "Ravi"
+      ],
+      "answer": 1,
+      "explanation": "Dulhasti (operational) and Ratle (under construction near Drabshalla) are located on the Chenab River in Kishtwar."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kishtwar",
+      "month": "",
+      "type": "Trap",
+      "question": "Which is the largest right-bank tributary of the Chenab River that drains the Warwan and Marwah valleys of Kishtwar?",
+      "options": [
+        "Lidder",
+        "Marusudar River",
+        "Tawi River",
+        "Ujh River"
+      ],
+      "answer": 1,
+      "explanation": "The Marusudar River originates in the Nunkun glacier area, flows through Warwan and Marwah in Kishtwar, and joins the Chenab at Bhandarkoot."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Kishtwar",
+      "month": "",
+      "type": "Fact",
+      "question": "The annual Machail Mata Yatra takes pilgrims to the shrine of Chandi Mata located in which remote sub-division of Kishtwar?",
+      "options": [
+        "Marwah",
+        "Paddar",
+        "Chatroo",
+        "Dachhan"
+      ],
+      "answer": 1,
+      "explanation": "Machail Mata shrine is located in Paddar sub-division of Kishtwar, a region also historically famous for blue sapphire mines."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Kishtwar",
+      "month": "",
+      "type": "Fact",
+      "question": "Sinthan Top (12,500 ft) is a high mountain pass connecting Kishtwar district with which district of the Kashmir Valley?",
+      "options": [
+        "Kulgam",
+        "Anantnag",
+        "Pulwama",
+        "Shopian"
+      ],
+      "answer": 1,
+      "explanation": "Sinthan Top along NH-244 connects Chatroo/Kishtwar with Kokernag/Daksum in Anantnag district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Poonch",
+      "month": "",
+      "type": "PYQ",
+      "question": "Noori Chamb, a famous waterfall named after Mughal Empress Nur Jahan, is located near Behramgala in which district?",
+      "options": [
+        "Rajouri",
+        "Poonch",
+        "Shopian",
+        "Reasi"
+      ],
+      "answer": 1,
+      "explanation": "Noori Chamb waterfall lies in the Surankote/Bufliaz belt of Poonch district along the historic Mughal Road."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Poonch",
+      "month": "",
+      "type": "Fact",
+      "question": "The revered shrine of Buddha Amarnath (dedicated to Lord Shiva) is situated on the banks of the Pulsata stream in which tehsil of Poonch?",
+      "options": [
+        "Mendhar",
+        "Mandi",
+        "Surankote",
+        "Haveli"
+      ],
+      "answer": 1,
+      "explanation": "Shri Buddha Amarnath temple is located in Mandi tehsil of Poonch district, attracting thousands of pilgrims annually."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Poonch",
+      "month": "",
+      "type": "Fact",
+      "question": "Seven Lakes (Satsar / Girjan) valley is an alpine trekking circuit situated in the Pir Panjal mountains of which district?",
+      "options": [
+        "Poonch",
+        "Doda",
+        "Kishtwar",
+        "Bandipora"
+      ],
+      "answer": 0,
+      "explanation": "Girjan / Seven Lakes valley is located in the Surankote/Buffliaz higher reaches of Poonch district."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Poonch",
+      "month": "",
+      "type": "Trap",
+      "question": "Poonch Fort, whose foundation was laid by Raja Abdul Razak Khan and later expanded by Raja Rustam Khan and Dogra rulers, is located in:",
+      "options": [
+        "Rajouri town",
+        "Poonch town",
+        "Mendhar",
+        "Thanamandi"
+      ],
+      "answer": 1,
+      "explanation": "Poonch Fort stands in the heart of Poonch town and showcases a blend of Mughal, Sikh, and Dogra architectural styles."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Poonch",
+      "month": "",
+      "type": "Fact",
+      "question": "Nangali Sahib Gurudwara, one of the oldest Sikh shrines in northern India established in 1803 by Sant Bhai Mela Singh, is located in:",
+      "options": [
+        "Jammu",
+        "Poonch",
+        "Baramulla",
+        "Kathua"
+      ],
+      "answer": 1,
+      "explanation": "Dera Santpura Nangali Sahib is situated on the banks of the Drungli Nallah near Poonch town."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Rajouri",
+      "month": "",
+      "type": "PYQ",
+      "question": "Chingus Sarai, a historic Mughal halting station where Emperor Jahangir's entrails were buried in 1627 CE, is located in which district?",
+      "options": [
+        "Poonch",
+        "Rajouri",
+        "Shopian",
+        "Samba"
+      ],
+      "answer": 1,
+      "explanation": "When Emperor Jahangir died near Rajouri in 1627 while returning from Kashmir, his entrails were interred at Chingus Fort/Sarai in Rajouri to preserve the body en route to Lahore."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Rajouri",
+      "month": "",
+      "type": "Fact",
+      "question": "Shahdara Sharief, the famous shrine of Sufi saint Baba Ghulam Shah Badshah visited by people of all faiths, is situated in which tehsil of Rajouri?",
+      "options": [
+        "Nowshera",
+        "Thanamandi",
+        "Kalakote",
+        "Sunderbani"
+      ],
+      "answer": 1,
+      "explanation": "Shahdara Sharief lies near Thanamandi in Rajouri district along the Pir Panjal foothills."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Rajouri",
+      "month": "",
+      "type": "Fact",
+      "question": "Dera Ki Gali (DKG) is a strategic mountain pass connecting Rajouri district (Thanamandi) with which neighbouring district?",
+      "options": [
+        "Reasi",
+        "Poonch",
+        "Shopian",
+        "Jammu"
+      ],
+      "answer": 1,
+      "explanation": "Dera Ki Gali connects Thanamandi in Rajouri with Bufliaz/Surankote in Poonch district."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Rajouri",
+      "month": "",
+      "type": "Fact",
+      "question": "Rajouri district is particularly renowned across J&K for its GI-tagged traditional woodcraft known as:",
+      "options": [
+        "Walnut Carving",
+        "Rajouri Chikri Woodcraft",
+        "Basohli Carving",
+        "Kani Woodwork"
+      ],
+      "answer": 1,
+      "explanation": "Rajouri Chikri Woodcraft—intricate carving on pale, fine-grained Chikri boxwood—received a Geographical Indication (GI) tag in 2023."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Rajouri",
+      "month": "",
+      "type": "Trap",
+      "question": "Baba Ghulam Shah Badshah University (BGSBU), established in 2002, is located at Dhanore in which district?",
+      "options": [
+        "Poonch",
+        "Rajouri",
+        "Doda",
+        "Jammu"
+      ],
+      "answer": 1,
+      "explanation": "Baba Ghulam Shah Badshah University is situated at Dhanore in Rajouri district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Ramban",
+      "month": "",
+      "type": "PYQ",
+      "question": "The Dr. Syama Prasad Mookerjee Tunnel (Chenani-Nashri Tunnel), India's longest highway tunnel at 9.28 km, links Udhampur with which district?",
+      "options": [
+        "Doda",
+        "Ramban",
+        "Anantnag",
+        "Reasi"
+      ],
+      "answer": 1,
+      "explanation": "The 9.28-km Chenani-Nashri Tunnel on NH-44 bypasses Patnitop and connects Chenani (Udhampur) with Nashri (Ramban)."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Ramban",
+      "month": "",
+      "type": "Fact",
+      "question": "Ramban is famous for its GI-tagged organic honey harvested from wild multifloral/tulsi blossoms, known as:",
+      "options": [
+        "Bhaderwah Honey",
+        "Ramban Sulai Honey",
+        "Gurez Honey",
+        "Kishtwar Honey"
+      ],
+      "answer": 1,
+      "explanation": "Ramban Sulai Honey, harvested primarily from wild Sulai (Plectranthus rugosus) blossoms in Ramban, was awarded the GI tag in 2023."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Ramban",
+      "month": "",
+      "type": "Fact",
+      "question": "The 900-MW Baglihar Hydroelectric Power Project is built on the Chenab River at Chanderkote in which district?",
+      "options": [
+        "Kishtwar",
+        "Ramban",
+        "Reasi",
+        "Doda"
+      ],
+      "answer": 1,
+      "explanation": "Baglihar Dam (Stage I & II, 900 MW total) is located on the Chenab River at Chanderkote in Ramban district."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Ramban",
+      "month": "",
+      "type": "Fact",
+      "question": "Sanasar, a scenic cup-shaped alpine meadow famous for paragliding and golf near Patnitop, falls in which district?",
+      "options": [
+        "Udhampur",
+        "Ramban",
+        "Doda",
+        "Reasi"
+      ],
+      "answer": 1,
+      "explanation": "While Patnitop sits on the Udhampur-Ramban border, Sanasar meadow lies 20 km west in Ramban district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Ramban",
+      "month": "",
+      "type": "Trap",
+      "question": "The T-49 tunnel (12.75 km), India's longest railway tunnel on the USBRL project between Sumber and Arpinchala, is located in which district?",
+      "options": [
+        "Reasi",
+        "Ramban",
+        "Udhampur",
+        "Anantnag"
+      ],
+      "answer": 1,
+      "explanation": "Tunnel T-49 on the Katra-Banihal section of the Udhampur-Srinagar-Baramulla Rail Link lies in Ramban district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Riasi",
+      "month": "",
+      "type": "PYQ",
+      "question": "The Chenab Rail Bridge, the world's highest railway arch bridge standing 359 metres above the riverbed, is located between Bakkal and Kauri in:",
+      "options": [
+        "Ramban",
+        "Riasi",
+        "Udhampur",
+        "Doda"
+      ],
+      "answer": 1,
+      "explanation": "The iconic Chenab Rail Bridge spans the Chenab gorge between Bakkal and Kauri in Riasi (Reasi) district."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Riasi",
+      "month": "",
+      "type": "Fact",
+      "question": "The holy cave shrine of Shri Mata Vaishno Devi is nestled in the Trikuta Hills near Katra in which district?",
+      "options": [
+        "Udhampur",
+        "Riasi",
+        "Jammu",
+        "Samba"
+      ],
+      "answer": 1,
+      "explanation": "Katra and the Trikuta Mountains housing the Shri Mata Vaishno Devi shrine are located in Riasi district."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Riasi",
+      "month": "",
+      "type": "Fact",
+      "question": "In February 2023, the Geological Survey of India (GSI) announced India's first major inferred lithium resources (5.9 million tonnes) in which area of Riasi?",
+      "options": [
+        "Katra",
+        "Salal-Haimana",
+        "Pouni",
+        "Mahore"
+      ],
+      "answer": 1,
+      "explanation": "GSI identified 5.9 million tonnes of inferred lithium resources in the Salal-Haimana area of Riasi district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Riasi",
+      "month": "",
+      "type": "Trap",
+      "question": "The Anji Khad Bridge, India's first cable-stayed railway bridge on the USBRL line, connects Katra with which area in Riasi?",
+      "options": [
+        "Banihal",
+        "Riasi",
+        "Sangaldan",
+        "Udhampur"
+      ],
+      "answer": 1,
+      "explanation": "The Anji Khad cable-stayed railway bridge spans the Anji river gorge between Katra and Riasi."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Riasi",
+      "month": "",
+      "type": "Fact",
+      "question": "Bhim Garh Fort, renovated by Maharaja Gulab Singh in the 19th century, is a prominent heritage landmark overlooking which town?",
+      "options": [
+        "Udhampur",
+        "Riasi",
+        "Akhnoor",
+        "Samba"
+      ],
+      "answer": 1,
+      "explanation": "Bhim Garh Fort (Reasi Fort) stands on a hillock in Riasi town and once housed the Dogra state treasury and armoury."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Samba",
+      "month": "",
+      "type": "PYQ",
+      "question": "Purmandal, revered as 'Chhota Kashi' on the banks of the subterranean Devika River, is located in which district?",
+      "options": [
+        "Jammu",
+        "Samba",
+        "Kathua",
+        "Udhampur"
+      ],
+      "answer": 1,
+      "explanation": "Purmandal and Uttervehini, ancient pilgrimage centres along the Devika River, are situated in Samba district."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Samba",
+      "month": "",
+      "type": "Fact",
+      "question": "Samba town is historically famous across northern India as the 'City of Sheets' due to its traditional craft of:",
+      "options": [
+        "Pashmina Weaving",
+        "Calico Hand-Block Printing",
+        "Carpets",
+        "Silk Sarees"
+      ],
+      "answer": 1,
+      "explanation": "Samba is renowned for traditional Calico hand-block textile printing on cotton sheets using wooden blocks."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Samba",
+      "month": "",
+      "type": "Trap",
+      "question": "Mansar Lake, part of the twin Surinsar-Mansar Ramsar Wetland complex, falls largely in which district?",
+      "options": [
+        "Jammu",
+        "Samba",
+        "Udhampur",
+        "Kathua"
+      ],
+      "answer": 1,
+      "explanation": "While Surinsar lies in Jammu district, Mansar Lake (62 km from Jammu) is located in Samba district."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Samba",
+      "month": "",
+      "type": "Fact",
+      "question": "Baba Chamliyal Shrine, known for its annual fair near the International Border where 'Shakkar' and 'Sharbat' are distributed, is in:",
+      "options": [
+        "R.S. Pura (Jammu)",
+        "Ramgarh (Samba)",
+        "Hiranagar (Kathua)",
+        "Akhnoor (Jammu)"
+      ],
+      "answer": 1,
+      "explanation": "Baba Chamliyal (Dilip Singh Manhas) shrine is situated at Ramgarh in Samba district along the International Border."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Samba",
+      "month": "",
+      "type": "Fact",
+      "question": "Which seasonal river originating in the Shivalik hills flows past Samba town before entering Pakistan?",
+      "options": [
+        "Tawi",
+        "Basantar",
+        "Ujh",
+        "Chenab"
+      ],
+      "answer": 1,
+      "explanation": "The Basantar River flows through Samba district and is also remembered for the historic 1971 Battle of Basantar."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "Udhampur",
+      "month": "",
+      "type": "PYQ",
+      "question": "Krimchi Temples, a complex of seven ancient stone temples dating back to the 8th–9th century CE, are located in which district?",
+      "options": [
+        "Ramban",
+        "Udhampur",
+        "Kathua",
+        "Reasi"
+      ],
+      "answer": 1,
+      "explanation": "The Krimchi (Pandava) group of temples is situated along the Birunala stream near Udhampur town."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Udhampur",
+      "month": "",
+      "type": "Fact",
+      "question": "Sudh Mahadev Temple and Mantalai, major pilgrimage and wellness-tourism destinations along the Devika stream, lie in which tehsil of Udhampur?",
+      "options": [
+        "Ramnagar",
+        "Chenani",
+        "Majalta",
+        "Basantgarh"
+      ],
+      "answer": 1,
+      "explanation": "Sudh Mahadev and Mantalai are located in the Chenani belt of Udhampur district."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "Udhampur",
+      "month": "",
+      "type": "Fact",
+      "question": "Kaladi, a traditional dense artisanal ripened cheese that received a Geographical Indication (GI) tag in 2023, is primarily associated with:",
+      "options": [
+        "Poonch",
+        "Udhampur",
+        "Pulwama",
+        "Kishtwar"
+      ],
+      "answer": 1,
+      "explanation": "Udhampur Kaladi (especially from Chenani/Ramnagar) is a traditional Dogra dairy delicacy awarded the GI tag in 2023."
+    },
+    {
+      "topic": "History of Jammu & Kashmir",
+      "district": "Udhampur",
+      "month": "",
+      "type": "Trap",
+      "question": "Sheesh Mahal in Ramnagar (Udhampur), famous for its Pahari wall murals depicting epics, was built by:",
+      "options": [
+        "Maharaja Gulab Singh",
+        "Raja Suchet Singh",
+        "Maharaja Pratap Singh",
+        "Raja Ranbir Singh"
+      ],
+      "answer": 1,
+      "explanation": "Raja Suchet Singh (brother of Maharaja Gulab Singh) built the Ramnagar Fort and Sheesh Mahal in Udhampur district."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "Udhampur",
+      "month": "",
+      "type": "Fact",
+      "question": "Udhampur town is named after which eldest son of Maharaja Gulab Singh?",
+      "options": [
+        "Ranbir Singh",
+        "Udham Singh",
+        "Pratap Singh",
+        "Amar Singh"
+      ],
+      "answer": 1,
+      "explanation": "Udhampur was named after Mian Udham Singh, the eldest son of Maharaja Gulab Singh."
+    },
+    {
+      "topic": "Geography, Rivers & Climate of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "Which major project connects Udhampur, Srinagar, and Baramulla via a 272-km all-weather broad-gauge railway line?",
+      "options": [
+        "Bharatmala Pariyojana",
+        "USBRL (Udhampur-Srinagar-Baramulla Rail Link)",
+        "Sagarmala",
+        "PMGSY"
+      ],
+      "answer": 1,
+      "explanation": "The 272-km USBRL project integrates the Kashmir Valley with the Indian Railways network across the Pir Panjal and Shivalik ranges."
+    },
+    {
+      "topic": "J&K Reorganisation Act, 2019 & Polity",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Trap",
+      "question": "Where is the principal seat / summer and winter circuit of the High Court of Jammu & Kashmir and Ladakh located?",
+      "options": [
+        "Only Srinagar",
+        "Only Jammu",
+        "Both Srinagar and Jammu",
+        "Udhampur"
+      ],
+      "answer": 2,
+      "explanation": "The High Court of Jammu & Kashmir and Ladakh functions from two permanent wings—one at Srinagar and one at Jammu."
+    },
+    {
+      "topic": "Economy, Agriculture & Handicrafts of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Fact",
+      "question": "What is 'J&K Samadhan' / 'JK e-UNNAT' launched by the Jammu & Kashmir administration?",
+      "options": [
+        "A hydel power grid",
+        "Unified citizen-centric e-governance and grievance redressal portals",
+        "A saffron export subsidy",
+        "A border tourism pass"
+      ],
+      "answer": 1,
+      "explanation": "JK e-UNNAT is J&K's unified single-sign-on e-governance portal delivering hundreds of online government services, while JK Samadhan handles public grievances."
+    },
+    {
+      "topic": "Ecology, Wildlife & National Parks of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "PYQ",
+      "question": "Which tree species, celebrated in Kashmiri poetry as 'Boonyi', is the official Union Territory Tree of Jammu & Kashmir?",
+      "options": [
+        "Deodar",
+        "Chinar (Platanus orientalis)",
+        "Walnut",
+        "Willow"
+      ],
+      "answer": 1,
+      "explanation": "The majestic Chinar tree (Platanus orientalis) is the official UT Tree of Jammu & Kashmir."
+    },
+    {
+      "topic": "Art, Culture, Heritage & Tourism of J&K",
+      "district": "UT-Wide (All J&K)",
+      "month": "",
+      "type": "Fact",
+      "question": "What is 'Wazwan' in the culinary heritage of Jammu & Kashmir?",
+      "options": [
+        "A Dogra wedding folk song",
+        "A traditional multi-course Kashmiri royal banquet",
+        "A walnut wood lacquer polish",
+        "A Ladakh winter festival"
+      ],
+      "answer": 1,
+      "explanation": "Wazwan is Kashmir's traditional ceremonial multi-course feast prepared by master chefs ('Wazas'), featuring dishes like Rista, Rogan Josh, Tabak Maaz, and Gushtaba."
+    }
+  ]
+}

@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f3d2e" />
+  <title>J&K Prep Bank — JKSSB & JKPSC Practice</title>
+  <style>
+    :root {
+      --bg: #f4f6f5;
+      --surface: #ffffff;
+      --surface-alt: #eef2f0;
+      --text: #16201c;
+      --muted: #57665f;
+      --border: #dce3df;
+      --primary: #0f3d2e;
+      --primary-light: #e6f0ec;
+      --accent: #b45309;
+      --accent-light: #fef3c7;
+      --success: #15803d;
+      --success-bg: #dcfce7;
+      --danger: #b91c1c;
+      --danger-bg: #fee2e2;
+      --radius: 14px;
+      --radius-sm: 9px;
+      --shadow: 0 2px 10px rgba(15, 61, 46, 0.06);
+      --nav-h: 64px;
+    }
+
+    * {
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.45;
+      padding-bottom: calc(var(--nav-h) + 28px);
+    }
+
+    .app-header {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: var(--primary);
+      color: #fff;
+      padding: 12px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    }
+
+    .brand-title {
+      font-size: 1rem;
+      font-weight: 700;
+      letter-spacing: 0.2px;
+      margin: 0;
+    }
+
+    .brand-sub {
+      font-size: 0.72rem;
+      opacity: 0.85;
+      margin-top: 1px;
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .btn-pill {
+      border: 1px solid rgba(255, 255, 255, 0.28);
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 6px 10px;
+      border-radius: 999px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .btn-pill.unlocked {
+      background: #16a34a;
+      border-color: #16a34a;
+    }
+
+    .container {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 14px 14px 0;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px;
+      margin-bottom: 12px;
+      box-shadow: var(--shadow);
+    }
+
+    .notice-bar {
+      background: #fef3c7;
+      border: 1px solid #f59e0b;
+      color: #78350f;
+      border-radius: var(--radius-sm);
+      padding: 9px 12px;
+      font-size: 0.82rem;
+      margin-bottom: 12px;
+    }
+
+    .filter-row {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+
+    @media (min-width: 560px) {
+      .filter-row.two-col {
+        grid-template-columns: 1.4fr 1fr;
+      }
+    }
+
+    label.field-label {
+      display: block;
+      font-size: 0.74rem;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+      margin-bottom: 5px;
+    }
+
+    select, input[type="text"], input[type="tel"], textarea {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: #fff;
+      color: var(--text);
+      font-size: 0.92rem;
+      font-family: inherit;
+    }
+
+    select:focus, input:focus, textarea:focus {
+      outline: 2px solid var(--primary);
+      outline-offset: 1px;
+    }
+
+    .seg-group {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .seg-btn {
+      flex: 1 1 auto;
+      min-width: 64px;
+      padding: 8px 10px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--surface-alt);
+      color: var(--text);
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-align: center;
+    }
+
+    .seg-btn.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: #fff;
+    }
+
+    .mode-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+    }
+
+    .mode-toggle {
+      display: inline-flex;
+      background: var(--surface-alt);
+      padding: 3px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+    }
+
+    .mode-toggle button {
+      border: none;
+      background: transparent;
+      padding: 6px 12px;
+      border-radius: 7px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--muted);
+      cursor: pointer;
+    }
+
+    .mode-toggle button.active {
+      background: var(--surface);
+      color: var(--primary);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    }
+
+    .exam-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.82rem;
+      font-weight: 700;
+    }
+
+    .timer-badge {
+      background: var(--accent-light);
+      color: var(--accent);
+      padding: 5px 10px;
+      border-radius: 999px;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .q-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+
+    .badges {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: var(--surface-alt);
+      color: var(--text);
+    }
+
+    .badge.type-PYQ { background: #e0e7ff; color: #1d4ed8; }
+    .badge.type-Trap { background: var(--accent-light); color: var(--accent); }
+    .badge.type-Fact { background: var(--primary-light); color: var(--primary); }
+
+    .q-counter {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--muted);
+    }
+
+    .q-text {
+      font-size: 1rem;
+      font-weight: 600;
+      margin: 0 0 14px;
+      color: var(--text);
+    }
+
+    .options-list {
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+    }
+
+    .opt-btn {
+      width: 100%;
+      text-align: left;
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 12px;
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--surface);
+      color: var(--text);
+      font-size: 0.92rem;
+      cursor: pointer;
+    }
+
+    .opt-btn:hover:not(:disabled) {
+      border-color: var(--primary);
+      background: var(--primary-light);
+    }
+
+    .opt-btn.selected {
+      border-color: var(--primary);
+      background: var(--primary-light);
+      font-weight: 600;
+    }
+
+    .opt-btn.correct {
+      border-color: var(--success);
+      background: var(--success-bg);
+      color: #14532d;
+      font-weight: 600;
+    }
+
+    .opt-btn.wrong {
+      border-color: var(--danger);
+      background: var(--danger-bg);
+      color: #7f1d1d;
+    }
+
+    .opt-letter {
+      font-weight: 700;
+      min-width: 20px;
+    }
+
+    .explanation-box {
+      margin-top: 14px;
+      padding: 12px;
+      border-radius: var(--radius-sm);
+      background: var(--surface-alt);
+      border-left: 4px solid var(--primary);
+      font-size: 0.88rem;
+    }
+
+    .explanation-title {
+      font-weight: 700;
+      margin-bottom: 4px;
+      color: var(--primary);
+    }
+
+    .q-nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-top: 16px;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+    }
+
+    .btn {
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      padding: 9px 14px;
+      border-radius: var(--radius-sm);
+      font-size: 0.86rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: #fff;
+    }
+
+    .btn-accent {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    .btn:disabled {
+      opacity: 0.45;
+      cursor: not-allowed;
+    }
+
+    .score-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      margin: 12px 0 16px;
+    }
+
+    @media (min-width: 520px) {
+      .score-grid {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+
+    .stat-box {
+      background: var(--surface-alt);
+      border-radius: var(--radius-sm);
+      padding: 10px;
+      text-align: center;
+    }
+
+    .stat-val {
+      font-size: 1.25rem;
+      font-weight: 800;
+    }
+
+    .stat-lbl {
+      font-size: 0.72rem;
+      color: var(--muted);
+      font-weight: 600;
+    }
+
+    .paywall-box {
+      border: 1.5px dashed var(--accent);
+      background: #fffbeb;
+      border-radius: var(--radius);
+      padding: 14px;
+      margin-top: 12px;
+    }
+
+    .paywall-title {
+      font-weight: 700;
+      color: var(--accent);
+      margin: 0 0 6px;
+      font-size: 0.95rem;
+    }
+
+    .admin-panel {
+      margin-top: 14px;
+      border: 1px solid #cbd5e1;
+      background: #f8fafc;
+    }
+
+    .admin-grid {
+      display: grid;
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    @media (min-width: 600px) {
+      .admin-grid.two {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    .status-msg {
+      margin-top: 8px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--primary);
+    }
+
+    .bottom-nav {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: var(--nav-h);
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      z-index: 30;
+      box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+    }
+
+    .tab-btn {
+      border: none;
+      background: transparent;
+      color: var(--muted);
+      font-size: 0.76rem;
+      font-weight: 700;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
+      cursor: pointer;
+    }
+
+    .tab-btn.active {
+      color: var(--primary);
+      background: var(--primary-light);
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 28px 16px;
+      color: var(--muted);
+    }
+
+    .hidden {
+      display: none !important;
+    }
+  </style>
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <h1 class="brand-title">J&K Prep Bank</h1>
+      <div class="brand-sub">JKSSB & JKPSC • +1 / −0.25 Marking</div>
+    </div>
+    <div class="header-actions">
+      <button id="unlockBtn" class="btn-pill" type="button">Unlock ₹149</button>
+      <button id="adminToggleBtn" class="btn-pill" type="button">Bank Tools</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="loadNotice" class="notice-bar hidden"></div>
+
+    <section class="card" aria-label="Filters and Mode">
+      <div class="filter-row two-col">
+        <div id="topicFilterWrap">
+          <label class="field-label" for="topicSelect">Syllabus Topic</label>
+          <select id="topicSelect"></select>
+        </div>
+
+        <div id="districtFilterWrap" class="hidden">
+          <label class="field-label" for="districtSelect">District (20 Districts + UT-Wide)</label>
+          <select id="districtSelect"></select>
+        </div>
+
+        <div id="monthFilterWrap" class="hidden">
+          <label class="field-label" for="monthSelect">Current Affairs Month</label>
+          <select id="monthSelect"></select>
+        </div>
+
+        <div>
+          <label class="field-label">Question Type</label>
+          <div class="seg-group" id="typeFilterGroup" role="group" aria-label="Question Type">
+            <button type="button" class="seg-btn active" data-type="All">All</button>
+            <button type="button" class="seg-btn" data-type="PYQ">PYQ</button>
+            <button type="button" class="seg-btn" data-type="Trap">Trap</button>
+            <button type="button" class="seg-btn" data-type="Fact">Fact</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="mode-bar">
+        <div class="mode-toggle" role="group" aria-label="Study Mode">
+          <button type="button" id="practiceModeBtn" class="active">Practice Mode</button>
+          <button type="button" id="examModeBtn">Exam Mode</button>
+        </div>
+
+        <div class="exam-meta">
+          <span id="filterCountBadge" class="badge">0 Qs</span>
+          <span id="examTimerBadge" class="timer-badge hidden">00:00</span>
+          <button type="button" id="submitExamBtn" class="btn btn-accent hidden">Submit Exam</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="questionCard" class="card" aria-live="polite">
+      <div id="emptyState" class="empty-state hidden">
+        No questions match the selected filter. Try switching to <strong>All</strong> question types or another category.
+      </div>
+
+      <div id="questionBody">
+        <div class="q-meta">
+          <div class="badges">
+            <span id="qTypeBadge" class="badge">Fact</span>
+            <span id="qTopicBadge" class="badge">Topic</span>
+            <span id="qDistrictBadge" class="badge">District</span>
+            <span id="qMonthBadge" class="badge hidden">Month</span>
+          </div>
+          <span id="qCounter" class="q-counter">Question 1 / 1</span>
+        </div>
+
+        <p id="qText" class="q-text">Loading questions…</p>
+        <div id="optionsList" class="options-list"></div>
+
+        <div id="explanationBox" class="explanation-box hidden">
+          <div class="explanation-title">Explanation</div>
+          <div id="explanationText"></div>
+        </div>
+
+        <div class="q-nav">
+          <button type="button" id="prevBtn" class="btn">← Previous</button>
+          <button type="button" id="clearAnsBtn" class="btn hidden">Clear</button>
+          <button type="button" id="nextBtn" class="btn btn-primary">Next →</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="examResultCard" class="card hidden" aria-label="Exam Results">
+      <h2 style="margin: 0 0 4px; font-size: 1.1rem;">Exam Result Summary</h2>
+      <div style="font-size: 0.82rem; color: var(--muted);">
+        Scoring: +1 Correct • −0.25 Wrong • 0 Skipped
+      </div>
+
+      <div class="score-grid">
+        <div class="stat-box">
+          <div id="statScore" class="stat-val">0</div>
+          <div class="stat-lbl">Net Score</div>
+        </div>
+        <div class="stat-box">
+          <div id="statCorrect" class="stat-val" style="color: var(--success);">0</div>
+          <div class="stat-lbl">Correct (+1)</div>
+        </div>
+        <div class="stat-box">
+          <div id="statWrong" class="stat-val" style="color: var(--danger);">0</div>
+          <div class="stat-lbl">Wrong (−0.25)</div>
+        </div>
+        <div class="stat-box">
+          <div id="statSkipped" class="stat-val">0</div>
+          <div class="stat-lbl">Skipped (0)</div>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <button type="button" id="reviewExamBtn" class="btn btn-primary">Review Answers</button>
+        <button type="button" id="retakeExamBtn" class="btn">Restart Exam</button>
+      </div>
+
+      <div id="examReviewList" style="margin-top: 14px;"></div>
+    </section>
+
+    <section id="unlockPanel" class="paywall-box hidden" aria-label="Full Bank Unlock">
+      <h2 class="paywall-title">Full Bank Access — ₹149 / Year (Up to 2 Devices)</h2>
+      <p style="margin: 0 0 10px; font-size: 0.86rem;">
+        Sample questions are free. Enter your registered phone number and access code to unlock the full bank for 365 days.
+      </p>
+      <div class="admin-grid two">
+        <input id="unlockPhone" type="tel" placeholder="10-digit Mobile Number" />
+        <input id="unlockCode" type="text" placeholder="Access Code (e.g. JK-XXXX-XXXX)" />
+      </div>
+      <div style="display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap;">
+        <button type="button" id="verifyUnlockBtn" class="btn btn-accent">Verify & Unlock</button>
+        <button type="button" id="closeUnlockBtn" class="btn">Close</button>
+      </div>
+      <div id="unlockStatus" class="status-msg"></div>
+    </section>
+
+    <section id="adminPanel" class="card admin-panel hidden" aria-label="Content Maintenance Tools">
+      <div style="display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap;">
+        <strong>Maintainer / Local Draft Tools (In-Memory + JSON Export)</strong>
+        <button type="button" id="downloadJsonBtn" class="btn btn-primary">Download data.json</button>
+      </div>
+      <p style="margin: 6px 0 0; font-size: 0.8rem; color: var(--muted);">
+        Add topics, add Current Affairs months (June 2026+), or paste a JSON array of new questions to test locally before running <code>manage_bank.py</code> and committing <code>data.json</code>.
+      </p>
+
+      <div class="admin-grid two">
+        <div>
+          <label class="field-label" for="newTopicInput">Add Topic Heading</label>
+          <div style="display: flex; gap: 6px;">
+            <input id="newTopicInput" type="text" placeholder="e.g. J&K Panchayati Raj Act" />
+            <button type="button" id="addTopicBtn" class="btn">Add</button>
+          </div>
+        </div>
+        <div>
+          <label class="field-label" for="newMonthInput">Add CA Month Heading</label>
+          <div style="display: flex; gap: 6px;">
+            <input id="newMonthInput" type="text" placeholder="e.g. December 2026" />
+            <button type="button" id="addMonthBtn" class="btn">Add</button>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: 10px;">
+        <label class="field-label" for="bulkQuestionsInput">Bulk Import Questions (JSON Array)</label>
+        <textarea id="bulkQuestionsInput" rows="4" placeholder='[{"topic":"Geography, Rivers & Climate of J&K","district":"Srinagar","month":"","type":"Fact","question":"...","options":["A","B","C","D"],"answer":0,"explanation":"..."}]'></textarea>
+        <div style="margin-top: 8px; display: flex; gap: 8px;">
+          <button type="button" id="importQuestionsBtn" class="btn btn-primary">Append Questions</button>
+        </div>
+      </div>
+      <div id="adminStatus" class="status-msg"></div>
+    </section>
+  </main>
+
+  <nav class="bottom-nav" aria-label="Primary Navigation">
+    <button type="button" class="tab-btn active" data-tab="topic">
+      <span>Topic-Wise</span>
+    </button>
+    <button type="button" class="tab-btn" data-tab="district">
+      <span>District-Wise</span>
+    </button>
+    <button type="button" class="tab-btn" data-tab="ca">
+      <span>Current Affairs</span>
+    </button>
+  </nav>
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const PUBLIC_MODE = urlParams.get("public") === "1" || true;
+    const VERIFY_ENDPOINT = "/api/verify-access";
+    const FREE_SAMPLE_LIMIT = 500; // Set to e.g. 15 when enabling paywall sample cap
+
+    const DISTRICTS = [
+      "Anantnag", "Bandipora", "Baramulla", "Budgam", "Ganderbal",
+      "Kulgam", "Kupwara", "Pulwama", "Shopian", "Srinagar",
+      "Doda", "Jammu", "Kathua", "Kishtwar", "Poonch",
+      "Rajouri", "Ramban", "Riasi", "Samba", "Udhampur",
+      "UT-Wide (All J&K)"
+    ];
+
+    const FALLBACK_BANK = {
+      topics: ["Geography, Rivers & Climate of J&K", "History of Jammu & Kashmir"],
+      months: ["June 2026"],
+      questions: [
+        {
+          topic: "Geography, Rivers & Climate of J&K",
+          district: "Srinagar",
+          month: "",
+          type: "Fact",
+          question: "Which river drains Dal Lake via the Nallah Amir Khan and joins the Jhelum?",
+          options: ["Lidder", "Sindh", "Tawi", "Ravi"],
+          answer: 1,
+          explanation: "Fallback preview item: place data.json alongside index.html and serve over HTTP to load the full bank."
+        }
+      ]
+    };
+
+    const state = {
+      bank: { topics: [], months: ["June 2026"], questions: [] },
+      activeTab: "topic",
+      selectedTopic: "ALL",
+      selectedDistrict: "ALL",
+      selectedMonth: "ALL",
+      selectedType: "All",
+      mode: "practice",
+      filteredQuestions: [],
+      currentIndex: 0,
+      practiceAnswers: {},
+      examAnswers: {},
+      examSubmitted: false,
+      examSeconds: 0,
+      timerId: null,
+      isUnlocked: false
+    };
+
+    try {
+      state.isUnlocked = localStorage.getItem("jk_bank_unlocked") === "true";
+    } catch (_) {
+      state.isUnlocked = false;
+    }
+
+    const els = {
+      loadNotice: document.getElementById("loadNotice"),
+      topicFilterWrap: document.getElementById("topicFilterWrap"),
+      districtFilterWrap: document.getElementById("districtFilterWrap"),
+      monthFilterWrap: document.getElementById("monthFilterWrap"),
+      topicSelect: document.getElementById("topicSelect"),
+      districtSelect: document.getElementById("districtSelect"),
+      monthSelect: document.getElementById("monthSelect"),
+      typeFilterGroup: document.getElementById("typeFilterGroup"),
+      filterCountBadge: document.getElementById("filterCountBadge"),
+      practiceModeBtn: document.getElementById("practiceModeBtn"),
+      examModeBtn: document.getElementById("examModeBtn"),
+      examTimerBadge: document.getElementById("examTimerBadge"),
+      submitExamBtn: document.getElementById("submitExamBtn"),
+      questionCard: document.getElementById("questionCard"),
+      emptyState: document.getElementById("emptyState"),
+      questionBody: document.getElementById("questionBody"),
+      qTypeBadge: document.getElementById("qTypeBadge"),
+      qTopicBadge: document.getElementById("qTopicBadge"),
+      qDistrictBadge: document.getElementById("qDistrictBadge"),
+      qMonthBadge: document.getElementById("qMonthBadge"),
+      qCounter: document.getElementById("qCounter"),
+      qText: document.getElementById("qText"),
+      optionsList: document.getElementById("optionsList"),
+      explanationBox: document.getElementById("explanationBox"),
+      explanationText: document.getElementById("explanationText"),
+      prevBtn: document.getElementById("prevBtn"),
+      clearAnsBtn: document.getElementById("clearAnsBtn"),
+      nextBtn: document.getElementById("nextBtn"),
+      examResultCard: document.getElementById("examResultCard"),
+      examReviewList: document.getElementById("examReviewList"),
+      reviewExamBtn: document.getElementById("reviewExamBtn"),
+      retakeExamBtn: document.getElementById("retakeExamBtn"),
+      unlockBtn: document.getElementById("unlockBtn"),
+      unlockPanel: document.getElementById("unlockPanel"),
+      verifyUnlockBtn: document.getElementById("verifyUnlockBtn"),
+      closeUnlockBtn: document.getElementById("closeUnlockBtn"),
+      adminToggleBtn: document.getElementById("adminToggleBtn"),
+      adminPanel: document.getElementById("adminPanel"),
+      adminStatus: document.getElementById("adminStatus"),
+      addTopicBtn: document.getElementById("addTopicBtn"),
+      addMonthBtn: document.getElementById("addMonthBtn"),
+      importQuestionsBtn: document.getElementById("importQuestionsBtn"),
+      downloadJsonBtn: document.getElementById("downloadJsonBtn")
+    };
+
+    function escapeHtml(str) {
+      return String(str ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function populateSelect(selectEl, items, allLabel) {
+      if (!selectEl) return;
+      selectEl.innerHTML = "";
+      const allOpt = document.createElement("option");
+      allOpt.value = "ALL";
+      allOpt.textContent = allLabel;
+      selectEl.appendChild(allOpt);
+
+      (items || []).forEach((item) => {
+        const opt = document.createElement("option");
+        opt.value = item;
+        opt.textContent = item;
+        selectEl.appendChild(opt);
+      });
+    }
+
+    function refreshSelectors() {
+      const topics = Array.isArray(state.bank.topics) ? state.bank.topics : [];
+      const months = Array.isArray(state.bank.months) && state.bank.months.length
+        ? state.bank.months
+        : ["June 2026"];
+
+      populateSelect(els.topicSelect, topics, "All Topics");
+      populateSelect(els.districtSelect, DISTRICTS, "All Districts & UT-Wide");
+      populateSelect(els.monthSelect, months, "All Months (June 2026+)");
+
+      state.selectedTopic = topics.includes(state.selectedTopic) ? state.selectedTopic : "ALL";
+      els.topicSelect.value = state.selectedTopic;
+
+      state.selectedDistrict = DISTRICTS.includes(state.selectedDistrict) ? state.selectedDistrict : "ALL";
+      els.districtSelect.value = state.selectedDistrict;
+
+      state.selectedMonth = months.includes(state.selectedMonth) ? state.selectedMonth : "ALL";
+      els.monthSelect.value = state.selectedMonth;
+    }
+
+    function applyFilters(resetExam = true) {
+      const qs = Array.isArray(state.bank.questions) ? state.bank.questions : [];
+
+      const matched = qs.filter((q) => {
+        if (!q || typeof q !== "object") return false;
+        if (state.selectedType !== "All" && q.type !== state.selectedType) return false;
+
+        if (state.activeTab === "topic") {
+          if (state.selectedTopic !== "ALL" && q.topic !== state.selectedTopic) return false;
+        } else if (state.activeTab === "district") {
+          if (state.selectedDistrict !== "ALL" && q.district !== state.selectedDistrict) return false;
+        } else if (state.activeTab === "ca") {
+          if (!q.month || !String(q.month).trim()) return false;
+          if (state.selectedMonth !== "ALL" && q.month !== state.selectedMonth) return false;
+        }
+        return true;
+      });
+
+      state.filteredQuestions = matched;
+      state.currentIndex = 0;
+      state.practiceAnswers = {};
+
+      if (resetExam) {
+        state.examAnswers = {};
+        state.examSubmitted = false;
+        els.examResultCard.classList.add("hidden");
+        els.examReviewList.innerHTML = "";
+        if (state.mode === "exam") {
+          startExamTimer(true);
+        }
+      }
+
+      els.filterCountBadge.textContent = `${matched.length} Qs`;
+      renderQuestion();
+    }
+
+    function isQuestionLocked(index) {
+      return !state.isUnlocked && index >= FREE_SAMPLE_LIMIT;
+    }
+
+    function renderQuestion() {
+      const list = state.filteredQuestions;
+      if (!list.length) {
+        els.emptyState.classList.remove("hidden");
+        els.questionBody.classList.add("hidden");
+        return;
+      }
+
+      els.emptyState.classList.add("hidden");
+      els.questionBody.classList.remove("hidden");
+
+      const idx = Math.min(Math.max(state.currentIndex, 0), list.length - 1);
+      state.currentIndex = idx;
+      const q = list[idx];
+
+      els.qCounter.textContent = `Question ${idx + 1} / ${list.length}`;
+      const qType = q.type || "Fact";
+      els.qTypeBadge.textContent = qType;
+      els.qTypeBadge.className = `badge type-${qType}`;
+      els.qTopicBadge.textContent = q.topic || "General";
+      els.qDistrictBadge.textContent = q.district || "UT-Wide (All J&K)";
+
+      if (q.month && String(q.month).trim()) {
+        els.qMonthBadge.textContent = q.month;
+        els.qMonthBadge.classList.remove("hidden");
+      } else {
+        els.qMonthBadge.classList.add("hidden");
+      }
+
+      els.qText.textContent = q.question || "";
+      els.optionsList.innerHTML = "";
+
+      const locked = isQuestionLocked(idx);
+      const selectedOpt = state.mode === "practice"
+        ? state.practiceAnswers[idx]
+        : state.examAnswers[idx];
+
+      const letters = ["A", "B", "C", "D"];
+      const opts = Array.isArray(q.options) ? q.options : [];
+      opts.forEach((optText, optIdx) => {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "opt-btn";
+        btn.disabled = locked || (state.mode === "practice" && selectedOpt !== undefined);
+
+        if (state.mode === "practice" && selectedOpt !== undefined) {
+          if (optIdx === q.answer) btn.classList.add("correct");
+          else if (optIdx === selectedOpt) btn.classList.add("wrong");
+        } else if (state.mode === "exam" && selectedOpt === optIdx) {
+          btn.classList.add("selected");
+        }
+
+        btn.innerHTML = `<span class="opt-letter">${letters[optIdx] || optIdx + 1}.</span><span>${escapeHtml(optText)}</span>`;
+        btn.addEventListener("click", () => handleOptionSelect(idx, optIdx));
+        els.optionsList.appendChild(btn);
+      });
+
+      if (state.mode === "practice" && selectedOpt !== undefined && !locked) {
+        els.explanationText.textContent = q.explanation || "No explanation provided.";
+        els.explanationBox.classList.remove("hidden");
+      } else if (locked) {
+        els.explanationText.innerHTML = `Free sample limit (${FREE_SAMPLE_LIMIT} questions) reached. Tap <strong>Unlock ₹149</strong> in the header to access all questions.`;
+        els.explanationBox.classList.remove("hidden");
+      } else {
+        els.explanationBox.classList.add("hidden");
+      }
+
+      els.prevBtn.disabled = idx === 0;
+      els.nextBtn.disabled = idx === list.length - 1;
+      els.clearAnsBtn.classList.toggle("hidden", state.mode !== "exam" || selectedOpt === undefined);
+    }
+
+    function handleOptionSelect(qIndex, optIndex) {
+      if (isQuestionLocked(qIndex)) return;
+      if (state.mode === "practice") {
+        if (state.practiceAnswers[qIndex] !== undefined) return;
+        state.practiceAnswers[qIndex] = optIndex;
+        renderQuestion();
+      } else {
+        state.examAnswers[qIndex] = optIndex;
+        renderQuestion();
+      }
+    }
+
+    function setTab(tab) {
+      state.activeTab = tab;
+      document.querySelectorAll(".tab-btn").forEach((b) => {
+        b.classList.toggle("active", b.dataset.tab === tab);
+      });
+      els.topicFilterWrap.classList.toggle("hidden", tab !== "topic");
+      els.districtFilterWrap.classList.toggle("hidden", tab !== "district");
+      els.monthFilterWrap.classList.toggle("hidden", tab !== "ca");
+      applyFilters(true);
+    }
+
+    function setMode(newMode) {
+      state.mode = newMode;
+      els.practiceModeBtn.classList.toggle("active", newMode === "practice");
+      els.examModeBtn.classList.toggle("active", newMode === "exam");
+      els.examTimerBadge.classList.toggle("hidden", newMode !== "exam");
+      els.submitExamBtn.classList.toggle("hidden", newMode !== "exam");
+
+      if (newMode === "exam") {
+        state.examAnswers = {};
+        state.examSubmitted = false;
+        els.examResultCard.classList.add("hidden");
+        startExamTimer(true);
+      } else {
+        stopExamTimer();
+        els.examResultCard.classList.add("hidden");
+      }
+      renderQuestion();
+    }
+
+    function formatTime(sec) {
+      const m = String(Math.floor(sec / 60)).padStart(2, "0");
+      const s = String(sec % 60).padStart(2, "0");
+      return `${m}:${s}`;
+    }
+
+    function startExamTimer(reset = false) {
+      stopExamTimer();
+      if (reset) state.examSeconds = 0;
+      els.examTimerBadge.textContent = formatTime(state.examSeconds);
+      state.timerId = setInterval(() => {
+        state.examSeconds += 1;
+        els.examTimerBadge.textContent = formatTime(state.examSeconds);
+      }, 1000);
+    }
+
+    function stopExamTimer() {
+      if (state.timerId) {
+        clearInterval(state.timerId);
+        state.timerId = null;
+      }
+    }
+
+    function submitExam() {
+      stopExamTimer();
+      state.examSubmitted = true;
+
+      let correct = 0;
+      let wrong = 0;
+      let skipped = 0;
+
+      state.filteredQuestions.forEach((q, idx) => {
+        const chosen = state.examAnswers[idx];
+        if (chosen === undefined || chosen === null) {
+          skipped += 1;
+        } else if (chosen === q.answer) {
+          correct += 1;
+        } else {
+          wrong += 1;
+        }
+      });
+
+      const netScore = Number((correct * 1 - wrong * 0.25).toFixed(2));
+      document.getElementById("statScore").textContent = netScore;
+      document.getElementById("statCorrect").textContent = correct;
+      document.getElementById("statWrong").textContent = wrong;
+      document.getElementById("statSkipped").textContent = skipped;
+
+      els.examReviewList.innerHTML = "";
+      els.examResultCard.classList.remove("hidden");
+      els.examResultCard.scrollIntoView({ behavior: "smooth" });
+    }
+
+    function renderExamReview() {
+      els.examReviewList.innerHTML = "";
+      const letters = ["A", "B", "C", "D"];
+
+      state.filteredQuestions.forEach((q, idx) => {
+        const chosen = state.examAnswers[idx];
+        const isCorrect = chosen === q.answer;
+        const isSkipped = chosen === undefined;
+        const ansIdx = Number.isInteger(q.answer) ? q.answer : 0;
+        const ansText = (Array.isArray(q.options) ? q.options[ansIdx] : "") || "";
+
+        const item = document.createElement("div");
+        item.className = "explanation-box";
+        item.style.borderLeftColor = isSkipped ? "#64748b" : (isCorrect ? "#15803d" : "#b91c1c");
+
+        const statusLabel = isSkipped
+          ? "Skipped (0)"
+          : (isCorrect ? "Correct (+1)" : `Wrong (−0.25) • Your choice: ${letters[chosen] || ""}`);
+
+        item.innerHTML = `
+          <div class="explanation-title">Q${idx + 1}. ${escapeHtml(q.question)}</div>
+          <div style="font-weight:600; margin-bottom:4px;">${statusLabel} • Correct: ${letters[ansIdx] || ""} (${escapeHtml(ansText)})</div>
+          <div>${escapeHtml(q.explanation || "")}</div>
+        `;
+        els.examReviewList.appendChild(item);
+      });
+    }
+
+    function updateUnlockUi() {
+      els.unlockBtn.textContent = state.isUnlocked ? "Unlocked (1 Yr)" : "Unlock ₹149";
+      els.unlockBtn.classList.toggle("unlocked", state.isUnlocked);
+    }
+
+    async function verifyUnlockCode() {
+      const phone = document.getElementById("unlockPhone").value.trim();
+      const code = document.getElementById("unlockCode").value.trim();
+      const statusEl = document.getElementById("unlockStatus");
+
+      if (!phone || !code) {
+        statusEl.textContent = "Please enter both phone number and access code.";
+        return;
+      }
+
+      statusEl.textContent = "Verifying with server…";
+      try {
+        let deviceId = "";
+        try {
+          deviceId = localStorage.getItem("jk_device_id") || "";
+          if (!deviceId) {
+            deviceId = (crypto && crypto.randomUUID)
+              ? crypto.randomUUID()
+              : `${Date.now()}-${Math.random().toString(36).slice(2)}`;
+            localStorage.setItem("jk_device_id", deviceId);
+          }
+        } catch (_) {
+          deviceId = "session-device";
+        }
+
+        const res = await fetch(VERIFY_ENDPOINT, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ phone, code, deviceId })
+        });
+        const data = await res.json();
+        if (res.ok && data.valid) {
+          state.isUnlocked = true;
+          try { localStorage.setItem("jk_bank_unlocked", "true"); } catch (_) {}
+          updateUnlockUi();
+          statusEl.textContent = "Unlocked! Full access active for 365 days.";
+          renderQuestion();
+        } else {
+          statusEl.textContent = data.message || "Invalid or expired code, or device limit reached.";
+        }
+      } catch (_) {
+        statusEl.textContent = "Verification endpoint not connected yet (Phase 2 Cloudflare KV).";
+      }
+    }
+
+    function bindEvents() {
+      document.querySelectorAll(".tab-btn").forEach((btn) => {
+        btn.addEventListener("click", () => setTab(btn.dataset.tab));
+      });
+
+      els.topicSelect.addEventListener("change", (e) => {
+        state.selectedTopic = e.target.value;
+        applyFilters(true);
+      });
+
+      els.districtSelect.addEventListener("change", (e) => {
+        state.selectedDistrict = e.target.value;
+        applyFilters(true);
+      });
+
+      els.monthSelect.addEventListener("change", (e) => {
+        state.selectedMonth = e.target.value;
+        applyFilters(true);
+      });
+
+      els.typeFilterGroup.querySelectorAll(".seg-btn").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          els.typeFilterGroup.querySelectorAll(".seg-btn").forEach((b) => b.classList.remove("active"));
+          btn.classList.add("active");
+          state.selectedType = btn.dataset.type;
+          applyFilters(true);
+        });
+      });
+
+      els.practiceModeBtn.addEventListener("click", () => setMode("practice"));
+      els.examModeBtn.addEventListener("click", () => setMode("exam"));
+      els.submitExamBtn.addEventListener("click", submitExam);
+      els.reviewExamBtn.addEventListener("click", renderExamReview);
+      els.retakeExamBtn.addEventListener("click", () => {
+        state.examAnswers = {};
+        state.examSubmitted = false;
+        els.examResultCard.classList.add("hidden");
+        startExamTimer(true);
+        renderQuestion();
+      });
+
+      els.prevBtn.addEventListener("click", () => {
+        if (state.currentIndex > 0) {
+          state.currentIndex -= 1;
+          renderQuestion();
+        }
+      });
+
+      els.nextBtn.addEventListener("click", () => {
+        if (state.currentIndex < state.filteredQuestions.length - 1) {
+          state.currentIndex += 1;
+          renderQuestion();
+        }
+      });
+
+      els.clearAnsBtn.addEventListener("click", () => {
+        delete state.examAnswers[state.currentIndex];
+        renderQuestion();
+      });
+
+      els.unlockBtn.addEventListener("click", () => {
+        els.unlockPanel.classList.toggle("hidden");
+      });
+      els.closeUnlockBtn.addEventListener("click", () => {
+        els.unlockPanel.classList.add("hidden");
+      });
+      els.verifyUnlockBtn.addEventListener("click", verifyUnlockCode);
+
+      if (PUBLIC_MODE) {
+        els.adminToggleBtn.classList.add("hidden");
+        els.adminPanel.classList.add("hidden");
+      } else {
+        els.adminToggleBtn.addEventListener("click", () => {
+          els.adminPanel.classList.toggle("hidden");
+        });
+
+        els.addTopicBtn.addEventListener("click", () => {
+          const input = document.getElementById("newTopicInput");
+          const val = input.value.trim();
+          if (!val) return;
+          if (!state.bank.topics.includes(val)) {
+            state.bank.topics.push(val);
+            refreshSelectors();
+            els.adminStatus.textContent = `Added topic "${val}".`;
+          }
+          input.value = "";
+        });
+
+        els.addMonthBtn.addEventListener("click", () => {
+          const input = document.getElementById("newMonthInput");
+          const val = input.value.trim();
+          if (!val) return;
+          if (!state.bank.months.includes(val)) {
+            state.bank.months.push(val);
+            refreshSelectors();
+            els.adminStatus.textContent = `Added month "${val}".`;
+          }
+          input.value = "";
+        });
+
+        els.importQuestionsBtn.addEventListener("click", () => {
+          const raw = document.getElementById("bulkQuestionsInput").value.trim();
+          if (!raw) return;
+          try {
+            const parsed = JSON.parse(raw);
+            if (!Array.isArray(parsed)) {
+              els.adminStatus.textContent = "Paste a JSON array [...] of question objects.";
+              return;
+            }
+            state.bank.questions.push(...parsed);
+            applyFilters(true);
+            els.adminStatus.textContent = `Appended ${parsed.length} question(s) to current session.`;
+          } catch (err) {
+            els.adminStatus.textContent = `Invalid JSON: ${err.message}`;
+          }
+        });
+
+        els.downloadJsonBtn.addEventListener("click", () => {
+          const blob = new Blob([JSON.stringify(state.bank, null, 2)], { type: "application/json" });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = "data.json";
+          a.click();
+          URL.revokeObjectURL(url);
+          els.adminStatus.textContent = "Downloaded data.json — run manage_bank.py before deploying.";
+        });
+      }
+    }
+
+    async function init() {
+      updateUnlockUi();
+      bindEvents();
+
+      try {
+        const res = await fetch("./data.json", { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const json = await res.json();
+        state.bank = {
+          topics: Array.isArray(json.topics) ? json.topics : [],
+          months: Array.isArray(json.months) && json.months.length ? json.months : ["June 2026"],
+          questions: Array.isArray(json.questions) ? json.questions : []
+        };
+        els.loadNotice.classList.add("hidden");
+      } catch (err) {
+        state.bank = FALLBACK_BANK;
+        els.loadNotice.innerHTML = `Could not load <strong>./data.json</strong> (${escapeHtml(err.message)}). Serving over HTTP (e.g. <code>python -m http.server 8000</code>) with <code>data.json</code> in the same folder loads the full bank.`;
+        els.loadNotice.classList.remove("hidden");
+      }
+
+      refreshSelectors();
+      applyFilters(true);
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
+  </script>
+</body>
+</html>
